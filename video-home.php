@@ -29,7 +29,7 @@
     <!--=========== Loader =============-->
 
     <!--========== Header ==============-->
-    <?php include("includes/nav"); ?>
+    <?php include("includes/nav.php"); ?>
     <!--========== Header ==============-->
 
     <!-- owl-carousel Banner Start -->
@@ -1838,7 +1838,7 @@
     <!-- owl-carousel Videos Section-3 End -->
 
     <!-- footer start -->
-<?php include("includes/footer"); ?>
+<?php include("includes/footer.php"); ?>
     <!-- footer End -->
 
     <!-- Back-to-Top start -->

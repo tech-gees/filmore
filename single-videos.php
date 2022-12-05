@@ -29,7 +29,7 @@
     <!--=========== Loader =============-->
 
     <!--========== Header ==============-->
-    <?php include("includes/nav"); ?>
+    <?php include("includes/nav.php"); ?>
     <!--========== Header ==============-->
 
     <!-- Single Video Start -->
@@ -711,7 +711,7 @@
     <!-- Single Video End -->
 
     <!-- footer start -->
-<?php include("includes/footer"); ?>
+<?php include("includes/footer.php"); ?>
     <!-- footer End -->
 
     <!-- Back-to-Top start -->

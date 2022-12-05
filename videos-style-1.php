@@ -29,7 +29,7 @@
     <!--=========== Loader =============-->
 
     <!--========== Header ==============-->
-    <?php include("includes/nav"); ?>
+    <?php include("includes/nav.php"); ?>
     <!--========== Header ==============-->
 
     <!-- breadcrumb -->
@@ -1014,7 +1014,7 @@
     <!-- Videos Style 1 -->
 
     <!-- footer start -->
-<?php include("includes/footer"); ?>
+<?php include("includes/footer.php"); ?>
     <!-- footer End -->
 
     <!-- Back-to-Top start -->

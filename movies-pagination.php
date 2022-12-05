@@ -29,7 +29,7 @@
     <!--=========== Loader =============-->
 
     <!--========== Header ==============-->
-    <?php include("includes/nav"); ?>
+    <?php include("includes/nav.php"); ?>
     <!--========== Header ==============-->
 
     <!-- breadcrumb -->
@@ -1075,7 +1075,7 @@
     <!-- Section-1 End -->
 
     <!-- footer start -->
-<?php include("includes/footer"); ?>
+<?php include("includes/footer.php"); ?>
     <!-- footer End -->
 
     <!-- Back-to-Top start -->
