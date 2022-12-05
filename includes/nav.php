@@ -15,16 +15,16 @@
                                         <i class="fa fa-chevron-down gen-submenu-icon"></i>
                                         <ul class="sub-menu">
                                             <li class="menu-item active">
-                                                <a href="index.php" aria-current="page">Main Home</a>
+                                                <a href="index" aria-current="page">Main Home</a>
                                             </li>
                                             <li class="menu-item">
-                                                <a href="movies-home.php" aria-current="page">Movies Home</a>
+                                                <a href="movies-home" aria-current="page">Movies Home</a>
                                             </li>
                                             <li class="menu-item">
-                                                <a href="tv-shows-home.php" aria-current="page">Tv Shows Home</a>
+                                                <a href="tv-shows-home" aria-current="page">Tv Shows Home</a>
                                             </li>
                                             <li class="menu-item">
-                                                <a href="video-home.php" aria-current="page">Video Home</a>
+                                                <a href="video-home" aria-current="page">Video Home</a>
                                             </li>
                                         </ul>
                                     </li>
@@ -37,13 +37,13 @@
                                                 <i class="fa fa-chevron-down gen-submenu-icon"></i>
                                                 <ul class="sub-menu">
                                                     <li class="menu-item">
-                                                        <a href="movies-load-more.php">Load More</a>
+                                                        <a href="movies-load-more">Load More</a>
                                                     </li>
                                                     <li class="menu-item">
-                                                        <a href="movies-infinite-scroll.php">Infinite scroll</a>
+                                                        <a href="movies-infinite-scroll">Infinite scroll</a>
                                                     </li>
                                                     <li class="menu-item">
-                                                        <a href="movies-pagination.php">Pagination</a>
+                                                        <a href="movies-pagination">Pagination</a>
                                                     </li>
                                                 </ul>
                                             </li>
@@ -52,18 +52,18 @@
                                                 <i class="fa fa-chevron-down gen-submenu-icon"></i>
                                                 <ul class="sub-menu">
                                                     <li class="menu-item">
-                                                        <a href="movies-style-1.php">Style 1</a>
+                                                        <a href="movies-style-1">Style 1</a>
                                                     </li>
                                                     <li class="menu-item">
-                                                        <a href="movies-style-2.php">Style 2</a>
+                                                        <a href="movies-style-2">Style 2</a>
                                                     </li>
                                                     <li class="menu-item">
-                                                        <a href="movies-style-3.php">Style 3</a>
+                                                        <a href="movies-style-3">Style 3</a>
                                                     </li>
                                                 </ul>
                                             </li>
                                             <li class="menu-item">
-                                                <a href="single-movie.php">Single Movie</a>
+                                                <a href="single-movie">Single Movie</a>
                                             </li>
                                         </ul>
                                     </li>
@@ -76,13 +76,13 @@
                                                 <i class="fa fa-chevron-down gen-submenu-icon"></i>
                                                 <ul class="sub-menu">
                                                     <li class="menu-item">
-                                                        <a href="tv-shows-load-more.php">Load More</a>
+                                                        <a href="tv-shows-load-more">Load More</a>
                                                     </li>
                                                     <li class="menu-item">
-                                                        <a href="tv-shows-infinite-scroll.php">Infinite scroll</a>
+                                                        <a href="tv-shows-infinite-scroll">Infinite scroll</a>
                                                     </li>
                                                     <li class="menu-item">
-                                                        <a href="tv-shows-pagination.php">Pagination</a>
+                                                        <a href="tv-shows-pagination">Pagination</a>
                                                     </li>
                                                 </ul>
                                             </li>
@@ -91,21 +91,21 @@
                                                 <i class="fa fa-chevron-down gen-submenu-icon"></i>
                                                 <ul class="sub-menu">
                                                     <li class="menu-item">
-                                                        <a href="tv-shows-style-1.php">Style 1</a>
+                                                        <a href="tv-shows-style-1">Style 1</a>
                                                     </li>
                                                     <li class="menu-item">
-                                                        <a href="tv-shows-style-2.php">Style 2</a>
+                                                        <a href="tv-shows-style-2">Style 2</a>
                                                     </li>
                                                     <li class="menu-item">
-                                                        <a href="tv-shows-style-3.php">Style 3</a>
+                                                        <a href="tv-shows-style-3">Style 3</a>
                                                     </li>
                                                 </ul>
                                             </li>
                                             <li class="menu-item">
-                                                <a href="single-tv-shows.php">Single Tv Shows</a>
+                                                <a href="single-tv-shows">Single Tv Shows</a>
                                             </li>
                                             <li class="menu-item">
-                                                <a href="single-episode.php">Single Episode</a>
+                                                <a href="single-episode">Single Episode</a>
                                             </li>
                                         </ul>
                                     </li>
@@ -118,13 +118,13 @@
                                                 <i class="fa fa-chevron-down gen-submenu-icon"></i>
                                                 <ul class="sub-menu">
                                                     <li class="menu-item">
-                                                        <a href="video-load-more.php">Load More</a>
+                                                        <a href="video-load-more">Load More</a>
                                                     </li>
                                                     <li class="menu-item">
-                                                        <a href="video-infinite-scroll.php">Infinite scroll</a>
+                                                        <a href="video-infinite-scroll">Infinite scroll</a>
                                                     </li>
                                                     <li class="menu-item">
-                                                        <a href="video-pagination.php">Pagination</a>
+                                                        <a href="video-pagination">Pagination</a>
                                                     </li>
                                                 </ul>
                                             </li>
@@ -133,18 +133,18 @@
                                                 <i class="fa fa-chevron-down gen-submenu-icon"></i>
                                                 <ul class="sub-menu">
                                                     <li class="menu-item">
-                                                        <a href="videos-style-1.php">Style 1</a>
+                                                        <a href="videos-style-1">Style 1</a>
                                                     </li>
                                                     <li class="menu-item">
-                                                        <a href="videos-style-2.php">Style 2</a>
+                                                        <a href="videos-style-2">Style 2</a>
                                                     </li>
                                                     <li class="menu-item">
-                                                        <a href="videos-style-3.php">Style 3</a>
+                                                        <a href="videos-style-3">Style 3</a>
                                                     </li>
                                                 </ul>
                                             </li>
                                             <li class="menu-item">
-                                                <a href="single-videos.php">Single videos</a>
+                                                <a href="single-videos">Single videos</a>
                                             </li>
                                         </ul>
                                     </li>
@@ -161,10 +161,10 @@
                                                         <i class="fa fa-chevron-down gen-submenu-icon"></i>
                                                         <ul class="sub-menu">
                                                             <li class="menu-item">
-                                                                <a href="blog-left-sidebar.php">blog left sidebar</a>
+                                                                <a href="blog-left-sidebar">blog left sidebar</a>
                                                             </li>
                                                             <li class="menu-item">
-                                                                <a href="blog-right-sidebar.php">blog right sidebar</a>
+                                                                <a href="blog-right-sidebar">blog right sidebar</a>
                                                             </li>
                                                         </ul>
                                                     </li>
@@ -175,15 +175,15 @@
                                                 <i class="fa fa-chevron-down gen-submenu-icon"></i>
                                                 <ul class="sub-menu">
                                                     <li class="menu-item">
-                                                        <a href="pricing-style-1.php">Style 1</a>
+                                                        <a href="pricing-style-1">Style 1</a>
                                                     </li>
                                                     <li class="menu-item">
-                                                        <a href="pricing-style-2.php">Style 2</a>
+                                                        <a href="pricing-style-2">Style 2</a>
                                                     </li>
                                                 </ul>
                                             </li>
                                             <li class="menu-item">
-                                                <a href="contact-us.php">Contact Us</a>
+                                                <a href="contact-us">Contact Us</a>
                                             </li>
                                         </ul>
                                     </li>
@@ -211,40 +211,40 @@
                                     <ul class="gen-account-menu">
                                         <!-- Pms Menu -->
                                         <li>
-                                            <a href="log-in.php"><i class="fas fa-sign-in-alt"></i>
+                                            <a href="log-in"><i class="fas fa-sign-in-alt"></i>
                                                 login </a>
                                         </li>
                                         <li>
-                                            <a href="register.php"><i class="fa fa-user"></i>
+                                            <a href="register"><i class="fa fa-user"></i>
                                                 Register </a>
                                         </li>
                                         <!-- Library Menu -->
                                         <li>
-                                            <a href="library.php">
+                                            <a href="library">
                                                 <i class="fa fa-indent"></i>
                                                 Library </a>
                                         </li>
                                         <li>
-                                            <a href="library.php"><i class="fa fa-list"></i>
+                                            <a href="library"><i class="fa fa-list"></i>
                                                 Movie Playlist </a>
                                         </li>
                                         <li>
-                                            <a href="library.php"><i class="fa fa-list"></i>
+                                            <a href="library"><i class="fa fa-list"></i>
                                                 Tv Show Playlist </a>
                                         </li>
                                         <li>
-                                            <a href="library.php"><i class="fa fa-list"></i>
+                                            <a href="library"><i class="fa fa-list"></i>
                                                 Video Playlist </a>
                                         </li>
                                         <li>
-                                            <a href="upload-video.php"> <i class="fa fa-upload"></i>
+                                            <a href="upload-video"> <i class="fa fa-upload"></i>
                                                 Upload Video </a>
                                         </li>
                                     </ul>
                                 </div>
                             </div>
                             <div class="gen-btn-container">
-                                <a href="register.php" class="gen-button">
+                                <a href="register" class="gen-button">
                                     <div class="gen-button-block">
                                         <span class="gen-button-line-left"></span>
                                         <span class="gen-button-text">Subscribe</span>

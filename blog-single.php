@@ -29,7 +29,7 @@
     <!--=========== Loader =============-->
 
     <!--========== Header ==============-->
-<?php include("includes/nav.php"); ?>
+<?php include("includes/nav"); ?>
     <!--========== Header ==============-->
 
     <!-- breadcrumb -->
@@ -45,7 +45,7 @@
                         </div>
                         <div class="gen-breadcrumb-container">
                             <ol class="breadcrumb">
-                                <li class="breadcrumb-item"><a href="index.php"><i
+                                <li class="breadcrumb-item"><a href="index"><i
                                             class="fas fa-home mr-2"></i>Home</a></li>
                                 <li class="breadcrumb-item active">blog single</li>
                             </ol>
@@ -232,7 +232,7 @@
     <!-- blog single -->
 
     <!-- footer start -->
-<?php include("includes/footer.php"); ?>
+<?php include("includes/footer"); ?>
     <!-- footer End -->
 
     <!-- Back-to-Top start -->

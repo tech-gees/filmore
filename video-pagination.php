@@ -29,7 +29,7 @@
     <!--=========== Loader =============-->
 
     <!--========== Header ==============-->
-    <?php include("includes/nav.php"); ?>
+    <?php include("includes/nav"); ?>
     <!--========== Header ==============-->
 
     <!-- breadcrumb -->
@@ -45,7 +45,7 @@
                         </div>
                         <div class="gen-breadcrumb-container">
                             <ol class="breadcrumb">
-                                <li class="breadcrumb-item"><a href="index.php"><i
+                                <li class="breadcrumb-item"><a href="index"><i
                                             class="fas fa-home mr-2"></i>Home</a></li>
                                 <li class="breadcrumb-item active">Video</li>
                             </ol>
@@ -100,20 +100,20 @@
                                             </div>
                                         </div>
                                         <div class="gen-movie-action">
-                                            <a href="single-videos.php" class="gen-button">
+                                            <a href="single-videos" class="gen-button">
                                                 <i class="fa fa-play"></i>
                                             </a>
                                         </div>
                                     </div>
                                     <div class="gen-info-contain">
                                         <div class="gen-movie-info">
-                                            <h3><a href="single-videos.php">sefozie world</a></h3>
+                                            <h3><a href="single-videos">sefozie world</a></h3>
                                         </div>
                                         <div class="gen-movie-meta-holder">
                                             <ul>
                                                 <li>2 weeks</li>
                                                 <li>
-                                                    <a href="adventure.php"><span>Adventure</span></a>
+                                                    <a href="adventure"><span>Adventure</span></a>
                                                 </li>
                                             </ul>
                                         </div>
@@ -158,20 +158,20 @@
                                             </div>
                                         </div>
                                         <div class="gen-movie-action">
-                                            <a href="single-videos.php" class="gen-button">
+                                            <a href="single-videos" class="gen-button">
                                                 <i class="fa fa-play"></i>
                                             </a>
                                         </div>
                                     </div>
                                     <div class="gen-info-contain">
                                         <div class="gen-movie-info">
-                                            <h3><a href="single-videos.php">War Hands</a></h3>
+                                            <h3><a href="single-videos">War Hands</a></h3>
                                         </div>
                                         <div class="gen-movie-meta-holder">
                                             <ul>
                                                 <li>2 weeks</li>
                                                 <li>
-                                                    <a href="animation.php"><span>Animation</span></a>
+                                                    <a href="animation"><span>Animation</span></a>
                                                 </li>
                                             </ul>
                                         </div>
@@ -216,20 +216,20 @@
                                             </div>
                                         </div>
                                         <div class="gen-movie-action">
-                                            <a href="single-videos.php" class="gen-button">
+                                            <a href="single-videos" class="gen-button">
                                                 <i class="fa fa-play"></i>
                                             </a>
                                         </div>
                                     </div>
                                     <div class="gen-info-contain">
                                         <div class="gen-movie-info">
-                                            <h3><a href="single-videos.php">MGX-Fighter</a></h3>
+                                            <h3><a href="single-videos">MGX-Fighter</a></h3>
                                         </div>
                                         <div class="gen-movie-meta-holder">
                                             <ul>
                                                 <li>2 weeks</li>
                                                 <li>
-                                                    <a href="adventure.php"><span>Adventure</span></a>
+                                                    <a href="adventure"><span>Adventure</span></a>
                                                 </li>
                                             </ul>
                                         </div>
@@ -274,20 +274,20 @@
                                             </div>
                                         </div>
                                         <div class="gen-movie-action">
-                                            <a href="single-videos.php" class="gen-button">
+                                            <a href="single-videos" class="gen-button">
                                                 <i class="fa fa-play"></i>
                                             </a>
                                         </div>
                                     </div>
                                     <div class="gen-info-contain">
                                         <div class="gen-movie-info">
-                                            <h3><a href="single-videos.php">Voho The Skull Land</a></h3>
+                                            <h3><a href="single-videos">Voho The Skull Land</a></h3>
                                         </div>
                                         <div class="gen-movie-meta-holder">
                                             <ul>
                                                 <li>2 weeks</li>
                                                 <li>
-                                                    <a href="horror.php"><span>Horror</span></a>
+                                                    <a href="horror"><span>Horror</span></a>
                                                 </li>
                                             </ul>
                                         </div>
@@ -332,20 +332,20 @@
                                             </div>
                                         </div>
                                         <div class="gen-movie-action">
-                                            <a href="single-videos.php" class="gen-button">
+                                            <a href="single-videos" class="gen-button">
                                                 <i class="fa fa-play"></i>
                                             </a>
                                         </div>
                                     </div>
                                     <div class="gen-info-contain">
                                         <div class="gen-movie-info">
-                                            <h3><a href="single-videos.php">Bigfoot Silva</a></h3>
+                                            <h3><a href="single-videos">Bigfoot Silva</a></h3>
                                         </div>
                                         <div class="gen-movie-meta-holder">
                                             <ul>
                                                 <li>2 weeks</li>
                                                 <li>
-                                                    <a href="action.php"><span>Action</span></a>
+                                                    <a href="action"><span>Action</span></a>
                                                 </li>
                                             </ul>
                                         </div>
@@ -390,20 +390,20 @@
                                             </div>
                                         </div>
                                         <div class="gen-movie-action">
-                                            <a href="single-videos.php" class="gen-button">
+                                            <a href="single-videos" class="gen-button">
                                                 <i class="fa fa-play"></i>
                                             </a>
                                         </div>
                                     </div>
                                     <div class="gen-info-contain">
                                         <div class="gen-movie-info">
-                                            <h3><a href="single-videos.php">Robot War</a></h3>
+                                            <h3><a href="single-videos">Robot War</a></h3>
                                         </div>
                                         <div class="gen-movie-meta-holder">
                                             <ul>
                                                 <li>2 weeks</li>
                                                 <li>
-                                                    <a href="tennis.php"><span>Tennis</span></a>
+                                                    <a href="tennis"><span>Tennis</span></a>
                                                 </li>
                                             </ul>
                                         </div>
@@ -448,20 +448,20 @@
                                             </div>
                                         </div>
                                         <div class="gen-movie-action">
-                                            <a href="single-videos.php" class="gen-button">
+                                            <a href="single-videos" class="gen-button">
                                                 <i class="fa fa-play"></i>
                                             </a>
                                         </div>
                                     </div>
                                     <div class="gen-info-contain">
                                         <div class="gen-movie-info">
-                                            <h3><a href="single-videos.php">Nature World</a></h3>
+                                            <h3><a href="single-videos">Nature World</a></h3>
                                         </div>
                                         <div class="gen-movie-meta-holder">
                                             <ul>
                                                 <li>2 weeks</li>
                                                 <li>
-                                                    <a href="traveling.php"><span>Traveling</span></a>
+                                                    <a href="traveling"><span>Traveling</span></a>
                                                 </li>
                                             </ul>
                                         </div>
@@ -506,20 +506,20 @@
                                             </div>
                                         </div>
                                         <div class="gen-movie-action">
-                                            <a href="single-videos.php" class="gen-button">
+                                            <a href="single-videos" class="gen-button">
                                                 <i class="fa fa-play"></i>
                                             </a>
                                         </div>
                                     </div>
                                     <div class="gen-info-contain">
                                         <div class="gen-movie-info">
-                                            <h3><a href="single-videos.php">AI:world</a></h3>
+                                            <h3><a href="single-videos">AI:world</a></h3>
                                         </div>
                                         <div class="gen-movie-meta-holder">
                                             <ul>
                                                 <li>2 weeks</li>
                                                 <li>
-                                                    <a href="action.php"><span>cricket</span></a>
+                                                    <a href="action"><span>cricket</span></a>
                                                 </li>
                                             </ul>
                                         </div>
@@ -564,20 +564,20 @@
                                             </div>
                                         </div>
                                         <div class="gen-movie-action">
-                                            <a href="single-videos.php" class="gen-button">
+                                            <a href="single-videos" class="gen-button">
                                                 <i class="fa fa-play"></i>
                                             </a>
                                         </div>
                                     </div>
                                     <div class="gen-info-contain">
                                         <div class="gen-movie-info">
-                                            <h3><a href="single-videos.php">Horse Ride</a></h3>
+                                            <h3><a href="single-videos">Horse Ride</a></h3>
                                         </div>
                                         <div class="gen-movie-meta-holder">
                                             <ul>
                                                 <li>2 weeks</li>
                                                 <li>
-                                                    <a href="tennis.php"><span>Tennis</span></a>
+                                                    <a href="tennis"><span>Tennis</span></a>
                                                 </li>
                                             </ul>
                                         </div>
@@ -622,20 +622,20 @@
                                             </div>
                                         </div>
                                         <div class="gen-movie-action">
-                                            <a href="single-videos.php" class="gen-button">
+                                            <a href="single-videos" class="gen-button">
                                                 <i class="fa fa-play"></i>
                                             </a>
                                         </div>
                                     </div>
                                     <div class="gen-info-contain">
                                         <div class="gen-movie-info">
-                                            <h3><a href="single-videos.php">Big Machine</a></h3>
+                                            <h3><a href="single-videos">Big Machine</a></h3>
                                         </div>
                                         <div class="gen-movie-meta-holder">
                                             <ul>
                                                 <li>2 weeks</li>
                                                 <li>
-                                                    <a href="traveling.php"><span>Traveling</span></a>
+                                                    <a href="traveling"><span>Traveling</span></a>
                                                 </li>
                                             </ul>
                                         </div>
@@ -680,20 +680,20 @@
                                             </div>
                                         </div>
                                         <div class="gen-movie-action">
-                                            <a href="single-videos.php" class="gen-button">
+                                            <a href="single-videos" class="gen-button">
                                                 <i class="fa fa-play"></i>
                                             </a>
                                         </div>
                                     </div>
                                     <div class="gen-info-contain">
                                         <div class="gen-movie-info">
-                                            <h3><a href="single-videos.php">make idea</a></h3>
+                                            <h3><a href="single-videos">make idea</a></h3>
                                         </div>
                                         <div class="gen-movie-meta-holder">
                                             <ul>
                                                 <li>2 years</li>
                                                 <li>
-                                                    <a href="biography.php"><span>Biography</span></a>
+                                                    <a href="biography"><span>Biography</span></a>
                                                 </li>
                                             </ul>
                                         </div>
@@ -738,20 +738,20 @@
                                             </div>
                                         </div>
                                         <div class="gen-movie-action">
-                                            <a href="single-videos.php" class="gen-button">
+                                            <a href="single-videos" class="gen-button">
                                                 <i class="fa fa-play"></i>
                                             </a>
                                         </div>
                                     </div>
                                     <div class="gen-info-contain">
                                         <div class="gen-movie-info">
-                                            <h3><a href="single-videos.php">Moto3 2014 Biggest crashes</a></h3>
+                                            <h3><a href="single-videos">Moto3 2014 Biggest crashes</a></h3>
                                         </div>
                                         <div class="gen-movie-meta-holder">
                                             <ul>
                                                 <li>2 years</li>
                                                 <li>
-                                                    <a href="action.php"><span>Moto-Gp</span></a>
+                                                    <a href="action"><span>Moto-Gp</span></a>
                                                 </li>
                                             </ul>
                                         </div>
@@ -796,20 +796,20 @@
                                             </div>
                                         </div>
                                         <div class="gen-movie-action">
-                                            <a href="single-videos.php" class="gen-button">
+                                            <a href="single-videos" class="gen-button">
                                                 <i class="fa fa-play"></i>
                                             </a>
                                         </div>
                                     </div>
                                     <div class="gen-info-contain">
                                         <div class="gen-movie-info">
-                                            <h3><a href="single-videos.php">dom’s match</a></h3>
+                                            <h3><a href="single-videos">dom’s match</a></h3>
                                         </div>
                                         <div class="gen-movie-meta-holder">
                                             <ul>
                                                 <li>2 years</li>
                                                 <li>
-                                                    <a href="biography.php"><span>Basketball</span></a>
+                                                    <a href="biography"><span>Basketball</span></a>
                                                 </li>
                                             </ul>
                                         </div>
@@ -854,20 +854,20 @@
                                             </div>
                                         </div>
                                         <div class="gen-movie-action">
-                                            <a href="single-videos.php" class="gen-button">
+                                            <a href="single-videos" class="gen-button">
                                                 <i class="fa fa-play"></i>
                                             </a>
                                         </div>
                                     </div>
                                     <div class="gen-info-contain">
                                         <div class="gen-movie-info">
-                                            <h3><a href="single-videos.php">Angry Moments in Cricket</a></h3>
+                                            <h3><a href="single-videos">Angry Moments in Cricket</a></h3>
                                         </div>
                                         <div class="gen-movie-meta-holder">
                                             <ul>
                                                 <li>2 years</li>
                                                 <li>
-                                                    <a href="action.php"><span>Cricket</span></a>
+                                                    <a href="action"><span>Cricket</span></a>
                                                 </li>
                                             </ul>
                                         </div>
@@ -912,20 +912,20 @@
                                             </div>
                                         </div>
                                         <div class="gen-movie-action">
-                                            <a href="single-videos.php" class="gen-button">
+                                            <a href="single-videos" class="gen-button">
                                                 <i class="fa fa-play"></i>
                                             </a>
                                         </div>
                                     </div>
                                     <div class="gen-info-contain">
                                         <div class="gen-movie-info">
-                                            <h3><a href="single-videos.php">xk vs kx</a></h3>
+                                            <h3><a href="single-videos">xk vs kx</a></h3>
                                         </div>
                                         <div class="gen-movie-meta-holder">
                                             <ul>
                                                 <li>2 years</li>
                                                 <li>
-                                                    <a href="action.php"><span>Hockey</span></a>
+                                                    <a href="action"><span>Hockey</span></a>
                                                 </li>
                                             </ul>
                                         </div>
@@ -970,20 +970,20 @@
                                             </div>
                                         </div>
                                         <div class="gen-movie-action">
-                                            <a href="single-videos.php" class="gen-button">
+                                            <a href="single-videos" class="gen-button">
                                                 <i class="fa fa-play"></i>
                                             </a>
                                         </div>
                                     </div>
                                     <div class="gen-info-contain">
                                         <div class="gen-movie-info">
-                                            <h3><a href="single-videos.php">kazy whale</a></h3>
+                                            <h3><a href="single-videos">kazy whale</a></h3>
                                         </div>
                                         <div class="gen-movie-meta-holder">
                                             <ul>
                                                 <li>2 years</li>
                                                 <li>
-                                                    <a href="traveling.php"><span>Traveling</span></a>
+                                                    <a href="traveling"><span>Traveling</span></a>
                                                 </li>
                                             </ul>
                                         </div>
@@ -1014,7 +1014,7 @@
     <!-- Infinite-Scroll -->
 
     <!-- footer start -->
-<?php include("includes/footer.php"); ?>
+<?php include("includes/footer"); ?>
     <!-- footer End -->
 
     <!-- Back-to-Top start -->

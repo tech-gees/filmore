@@ -29,7 +29,7 @@
     <!--=========== Loader =============-->
 
     <!--========== Header ==============-->
-    <?php include("includes/nav.php"); ?>
+    <?php include("includes/nav"); ?>
     <!--========== Header ==============-->
 
     <!-- breadcrumb -->
@@ -45,7 +45,7 @@
                         </div>
                         <div class="gen-breadcrumb-container">
                             <ol class="breadcrumb">
-                                <li class="breadcrumb-item"><a href="index.php"><i
+                                <li class="breadcrumb-item"><a href="index"><i
                                             class="fas fa-home mr-2"></i>Home</a></li>
                                 <li class="breadcrumb-item active">Pricing Table</li>
                             </ol>
@@ -286,7 +286,7 @@
                                         <div class="cell-btn-holder">
                                             <div class="gen-btn-container">
                                                 <div class="gen-button-block">
-                                                    <a class="gen-button" href="register.php">
+                                                    <a class="gen-button" href="register">
                                                         <span class="text">Subscribe</span>
                                                     </a>
                                                 </div>
@@ -299,7 +299,7 @@
                                         <div class="cell-btn-holder">
                                             <div class="gen-btn-container">
                                                 <div class="gen-button-block">
-                                                    <a class="gen-button" href="register.php">
+                                                    <a class="gen-button" href="register">
                                                         <span class="text">Subscribe</span>
                                                     </a>
                                                 </div>
@@ -312,7 +312,7 @@
                                         <div class="cell-btn-holder">
                                             <div class="gen-btn-container">
                                                 <div class="gen-button-block">
-                                                    <a class="gen-button" href="register.php">
+                                                    <a class="gen-button" href="register">
                                                         <span class="text">Subscribe</span>
                                                     </a>
                                                 </div>
@@ -330,7 +330,7 @@
     <!-- Pricing Table End -->
 
     <!-- footer start -->
-<?php include("includes/footer.php"); ?>
+<?php include("includes/footer"); ?>
     <!-- footer End -->
 
     <!-- Back-to-Top start -->

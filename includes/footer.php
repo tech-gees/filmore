@@ -25,11 +25,11 @@
                             <div class="menu-explore-container">
                                 <ul class="menu">
                                     <li class="menu-item">
-                                        <a href="index.php" aria-current="page">Home</a>
+                                        <a href="index" aria-current="page">Home</a>
                                     </li>
-                                    <li class="menu-item"><a href="movies-pagination.php">Movies</a></li>
-                                    <li class="menu-item"><a href="tv-shows-pagination.php">Tv Shows</a></li>
-                                    <li class="menu-item"><a href="video-pagination.php">Videos</a></li>
+                                    <li class="menu-item"><a href="movies-pagination">Movies</a></li>
+                                    <li class="menu-item"><a href="tv-shows-pagination">Tv Shows</a></li>
+                                    <li class="menu-item"><a href="video-pagination">Videos</a></li>
                                     <li class="menu-item"><a href="#">Actors</a></li>
                                     <li class="menu-item"><a href="#">Basketball</a></li>
                                     <li class="menu-item"><a href="#">Celebrity</a></li>
@@ -43,18 +43,18 @@
                             <h4 class="footer-title">Company</h4>
                             <div class="menu-about-container">
                                 <ul class="menu">
-                                    <li class="menu-item"><a href="contact-us.php">Company</a>
+                                    <li class="menu-item"><a href="contact-us">Company</a>
                                     </li>
-                                    <li class="menu-item"><a href="contact-us.php">Privacy
+                                    <li class="menu-item"><a href="contact-us">Privacy
                                             Policy</a></li>
-                                    <li class="menu-item"><a href="contact-us.php">Terms Of
+                                    <li class="menu-item"><a href="contact-us">Terms Of
                                             Use</a></li>
-                                    <li class="menu-item"><a href="contact-us.php">Help
+                                    <li class="menu-item"><a href="contact-us">Help
                                             Center</a></li>
-                                    <li class="menu-item"><a href="contact-us.php">contact us</a></li>
-                                    <li class="menu-item"><a href="pricing-style-1.php">Subscribe</a></li>
+                                    <li class="menu-item"><a href="contact-us">contact us</a></li>
+                                    <li class="menu-item"><a href="pricing-style-1">Subscribe</a></li>
                                     <li class="menu-item"><a href="#">Our Team</a></li>
-                                    <li class="menu-item"><a href="contact-us.php">Faq</a></li>
+                                    <li class="menu-item"><a href="contact-us">Faq</a></li>
                                 </ul>
                             </div>
                         </div>

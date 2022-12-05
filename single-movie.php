@@ -29,7 +29,7 @@
     <!--=========== Loader =============-->
 
     <!--========== Header ==============-->
-    <?php include("includes/nav.php"); ?>
+    <?php include("includes/nav"); ?>
     <!--========== Header ==============-->
 
     <!-- Single movie Start -->
@@ -82,11 +82,11 @@
                                                 </li>
                                                 <li><span>Genre :</span>
                                                     <span>
-                                                        <a href="action.php">
+                                                        <a href="action">
                                                             Action, </a>
                                                     </span>
                                                     <span>
-                                                        <a href="adventure.php">
+                                                        <a href="adventure">
                                                             Documentary </a>
                                                     </span>
                                                 </li>
@@ -165,20 +165,20 @@
                                                                 </div>
                                                             </div>
                                                             <div class="gen-movie-action">
-                                                                <a href="movies-home.php" class="gen-button">
+                                                                <a href="movies-home" class="gen-button">
                                                                     <i class="fa fa-play"></i>
                                                                 </a>
                                                             </div>
                                                         </div>
                                                         <div class="gen-info-contain">
                                                             <div class="gen-movie-info">
-                                                                <h3><a href="movies-home.php">The warrior life</a></h3>
+                                                                <h3><a href="movies-home">The warrior life</a></h3>
                                                             </div>
                                                             <div class="gen-movie-meta-holder">
                                                                 <ul>
                                                                     <li>2hr 00mins</li>
                                                                     <li>
-                                                                        <a href="action.php"><span>Action</span></a>
+                                                                        <a href="action"><span>Action</span></a>
                                                                     </li>
                                                                 </ul>
                                                             </div>
@@ -234,20 +234,20 @@
                                                                 </div>
                                                             </div>
                                                             <div class="gen-movie-action">
-                                                                <a href="movies-home.php" class="gen-button">
+                                                                <a href="movies-home" class="gen-button">
                                                                     <i class="fa fa-play"></i>
                                                                 </a>
                                                             </div>
                                                         </div>
                                                         <div class="gen-info-contain">
                                                             <div class="gen-movie-info">
-                                                                <h3><a href="movies-home.php">Thieve the bank</a></h3>
+                                                                <h3><a href="movies-home">Thieve the bank</a></h3>
                                                             </div>
                                                             <div class="gen-movie-meta-holder">
                                                                 <ul>
                                                                     <li>30mins</li>
                                                                     <li>
-                                                                        <a href="action.php"><span>Action</span></a>
+                                                                        <a href="action"><span>Action</span></a>
                                                                     </li>
                                                                 </ul>
                                                             </div>
@@ -303,20 +303,20 @@
                                                                 </div>
                                                             </div>
                                                             <div class="gen-movie-action">
-                                                                <a href="movies-home.php" class="gen-button">
+                                                                <a href="movies-home" class="gen-button">
                                                                     <i class="fa fa-play"></i>
                                                                 </a>
                                                             </div>
                                                         </div>
                                                         <div class="gen-info-contain">
                                                             <div class="gen-movie-info">
-                                                                <h3><a href="movies-home.php">love your life</a></h3>
+                                                                <h3><a href="movies-home">love your life</a></h3>
                                                             </div>
                                                             <div class="gen-movie-meta-holder">
                                                                 <ul>
                                                                     <li>1hr 46mins</li>
                                                                     <li>
-                                                                        <a href="action.php"><span>Action</span></a>
+                                                                        <a href="action"><span>Action</span></a>
                                                                     </li>
                                                                 </ul>
                                                             </div>
@@ -372,20 +372,20 @@
                                                                 </div>
                                                             </div>
                                                             <div class="gen-movie-action">
-                                                                <a href="movies-home.php" class="gen-button">
+                                                                <a href="movies-home" class="gen-button">
                                                                     <i class="fa fa-play"></i>
                                                                 </a>
                                                             </div>
                                                         </div>
                                                         <div class="gen-info-contain">
                                                             <div class="gen-movie-info">
-                                                                <h3><a href="movies-home.php">my generation</a></h3>
+                                                                <h3><a href="movies-home">my generation</a></h3>
                                                             </div>
                                                             <div class="gen-movie-meta-holder">
                                                                 <ul>
                                                                     <li>1hr 24mins</li>
                                                                     <li>
-                                                                        <a href="action.php"><span>Action</span></a>
+                                                                        <a href="action"><span>Action</span></a>
                                                                     </li>
                                                                 </ul>
                                                             </div>
@@ -441,21 +441,21 @@
                                                                 </div>
                                                             </div>
                                                             <div class="gen-movie-action">
-                                                                <a href="movies-home.php" class="gen-button">
+                                                                <a href="movies-home" class="gen-button">
                                                                     <i class="fa fa-play"></i>
                                                                 </a>
                                                             </div>
                                                         </div>
                                                         <div class="gen-info-contain">
                                                             <div class="gen-movie-info">
-                                                                <h3><a href="movies-home.php">spaceman the voyager</a>
+                                                                <h3><a href="movies-home">spaceman the voyager</a>
                                                                 </h3>
                                                             </div>
                                                             <div class="gen-movie-meta-holder">
                                                                 <ul>
                                                                     <li>1hr 32mins</li>
                                                                     <li>
-                                                                        <a href="action.php"><span>Action</span></a>
+                                                                        <a href="action"><span>Action</span></a>
                                                                     </li>
                                                                 </ul>
                                                             </div>
@@ -511,20 +511,20 @@
                                                                 </div>
                                                             </div>
                                                             <div class="gen-movie-action">
-                                                                <a href="movies-home.php" class="gen-button">
+                                                                <a href="movies-home" class="gen-button">
                                                                     <i class="fa fa-play"></i>
                                                                 </a>
                                                             </div>
                                                         </div>
                                                         <div class="gen-info-contain">
                                                             <div class="gen-movie-info">
-                                                                <h3><a href="movies-home.php">The last witness</a></h3>
+                                                                <h3><a href="movies-home">The last witness</a></h3>
                                                             </div>
                                                             <div class="gen-movie-meta-holder">
                                                                 <ul>
                                                                     <li>1hr 37mins</li>
                                                                     <li>
-                                                                        <a href="action.php"><span>Action</span></a>
+                                                                        <a href="action"><span>Action</span></a>
                                                                     </li>
                                                                 </ul>
                                                             </div>
@@ -580,21 +580,21 @@
                                                                 </div>
                                                             </div>
                                                             <div class="gen-movie-action">
-                                                                <a href="movies-home.php" class="gen-button">
+                                                                <a href="movies-home" class="gen-button">
                                                                     <i class="fa fa-play"></i>
                                                                 </a>
                                                             </div>
                                                         </div>
                                                         <div class="gen-info-contain">
                                                             <div class="gen-movie-info">
-                                                                <h3><a href="movies-home.php">shimu the elephant</a>
+                                                                <h3><a href="movies-home">shimu the elephant</a>
                                                                 </h3>
                                                             </div>
                                                             <div class="gen-movie-meta-holder">
                                                                 <ul>
                                                                     <li>1hr 54mins</li>
                                                                     <li>
-                                                                        <a href="action.php"><span>Action</span></a>
+                                                                        <a href="action"><span>Action</span></a>
                                                                     </li>
                                                                 </ul>
                                                             </div>
@@ -650,20 +650,20 @@
                                                                 </div>
                                                             </div>
                                                             <div class="gen-movie-action">
-                                                                <a href="movies-home.php" class="gen-button">
+                                                                <a href="movies-home" class="gen-button">
                                                                     <i class="fa fa-play"></i>
                                                                 </a>
                                                             </div>
                                                         </div>
                                                         <div class="gen-info-contain">
                                                             <div class="gen-movie-info">
-                                                                <h3><a href="movies-home.php">black water</a></h3>
+                                                                <h3><a href="movies-home">black water</a></h3>
                                                             </div>
                                                             <div class="gen-movie-meta-holder">
                                                                 <ul>
                                                                     <li>1hr 44mins</li>
                                                                     <li>
-                                                                        <a href="action.php"><span>Action</span></a>
+                                                                        <a href="action"><span>Action</span></a>
                                                                     </li>
                                                                 </ul>
                                                             </div>
@@ -719,21 +719,21 @@
                                                                 </div>
                                                             </div>
                                                             <div class="gen-movie-action">
-                                                                <a href="movies-home.php" class="gen-button">
+                                                                <a href="movies-home" class="gen-button">
                                                                     <i class="fa fa-play"></i>
                                                                 </a>
                                                             </div>
                                                         </div>
                                                         <div class="gen-info-contain">
                                                             <div class="gen-movie-info">
-                                                                <h3><a href="movies-home.php">shipe of full moon</a>
+                                                                <h3><a href="movies-home">shipe of full moon</a>
                                                                 </h3>
                                                             </div>
                                                             <div class="gen-movie-meta-holder">
                                                                 <ul>
                                                                     <li>1hr 35mins</li>
                                                                     <li>
-                                                                        <a href="action.php"><span>Action</span></a>
+                                                                        <a href="action"><span>Action</span></a>
                                                                     </li>
                                                                 </ul>
                                                             </div>
@@ -789,21 +789,21 @@
                                                                 </div>
                                                             </div>
                                                             <div class="gen-movie-action">
-                                                                <a href="movies-home.php" class="gen-button">
+                                                                <a href="movies-home" class="gen-button">
                                                                     <i class="fa fa-play"></i>
                                                                 </a>
                                                             </div>
                                                         </div>
                                                         <div class="gen-info-contain">
                                                             <div class="gen-movie-info">
-                                                                <h3><a href="movies-home.php">The journey of a
+                                                                <h3><a href="movies-home">The journey of a
                                                                         champion</a></h3>
                                                             </div>
                                                             <div class="gen-movie-meta-holder">
                                                                 <ul>
                                                                     <li>2hr 23mins</li>
                                                                     <li>
-                                                                        <a href="action.php"><span>Action</span></a>
+                                                                        <a href="action"><span>Action</span></a>
                                                                     </li>
                                                                 </ul>
                                                             </div>
@@ -837,7 +837,7 @@
     <!-- Single movie End -->
 
     <!-- footer start -->
-<?php include("includes/footer.php"); ?>
+<?php include("includes/footer"); ?>
     <!-- footer End -->
 
     <!-- Back-to-Top start -->

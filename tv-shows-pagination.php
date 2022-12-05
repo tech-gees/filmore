@@ -29,7 +29,7 @@
     <!--=========== Loader =============-->
 
     <!--========== Header ==============-->
-    <?php include("includes/nav.php"); ?>
+    <?php include("includes/nav"); ?>
     <!--========== Header ==============-->
 
     <!-- breadcrumb -->
@@ -45,7 +45,7 @@
                         </div>
                         <div class="gen-breadcrumb-container">
                             <ol class="breadcrumb">
-                                <li class="breadcrumb-item"><a href="index.php"><i
+                                <li class="breadcrumb-item"><a href="index"><i
                                             class="fas fa-home mr-2"></i>Home</a></li>
                                 <li class="breadcrumb-item active">TV Show</li>
                             </ol>
@@ -106,20 +106,20 @@
                                                 </div>
                                             </div>
                                             <div class="gen-movie-action">
-                                                <a href="single-tv-shows.php" class="gen-button">
+                                                <a href="single-tv-shows" class="gen-button">
                                                     <i class="fa fa-play"></i>
                                                 </a>
                                             </div>
                                         </div>
                                         <div class="gen-info-contain">
                                             <div class="gen-movie-info">
-                                                <h3><a href="single-tv-shows.php">Ghost of Sky</a></h3>
+                                                <h3><a href="single-tv-shows">Ghost of Sky</a></h3>
                                             </div>
                                             <div class="gen-movie-meta-holder">
                                                 <ul>
                                                     <li>1 Season</li>
                                                     <li>
-                                                        <a href="adventure.php"><span>Adventure</span></a>
+                                                        <a href="adventure"><span>Adventure</span></a>
                                                     </li>
                                                 </ul>
                                             </div>
@@ -169,20 +169,20 @@
                                                 </div>
                                             </div>
                                             <div class="gen-movie-action">
-                                                <a href="single-tv-shows.php" class="gen-button">
+                                                <a href="single-tv-shows" class="gen-button">
                                                     <i class="fa fa-play"></i>
                                                 </a>
                                             </div>
                                         </div>
                                         <div class="gen-info-contain">
                                             <div class="gen-movie-info">
-                                                <h3><a href="single-tv-shows.php">Love In 21st</a></h3>
+                                                <h3><a href="single-tv-shows">Love In 21st</a></h3>
                                             </div>
                                             <div class="gen-movie-meta-holder">
                                                 <ul>
                                                     <li>2 Seasons</li>
                                                     <li>
-                                                        <a href="action.php"><span>Action</span></a>
+                                                        <a href="action"><span>Action</span></a>
                                                     </li>
                                                 </ul>
                                             </div>
@@ -232,20 +232,20 @@
                                                 </div>
                                             </div>
                                             <div class="gen-movie-action">
-                                                <a href="single-tv-shows.php" class="gen-button">
+                                                <a href="single-tv-shows" class="gen-button">
                                                     <i class="fa fa-play"></i>
                                                 </a>
                                             </div>
                                         </div>
                                         <div class="gen-info-contain">
                                             <div class="gen-movie-info">
-                                                <h3><a href="single-tv-shows.php">Family Love</a></h3>
+                                                <h3><a href="single-tv-shows">Family Love</a></h3>
                                             </div>
                                             <div class="gen-movie-meta-holder">
                                                 <ul>
                                                     <li>0 Seasons</li>
                                                     <li>
-                                                        <a href="action.php"><span>Action</span></a>
+                                                        <a href="action"><span>Action</span></a>
                                                     </li>
                                                 </ul>
                                             </div>
@@ -295,20 +295,20 @@
                                                 </div>
                                             </div>
                                             <div class="gen-movie-action">
-                                                <a href="single-tv-shows.php" class="gen-button">
+                                                <a href="single-tv-shows" class="gen-button">
                                                     <i class="fa fa-play"></i>
                                                 </a>
                                             </div>
                                         </div>
                                         <div class="gen-info-contain">
                                             <div class="gen-movie-info">
-                                                <h3><a href="single-tv-shows.php">Dance nation Dance</a></h3>
+                                                <h3><a href="single-tv-shows">Dance nation Dance</a></h3>
                                             </div>
                                             <div class="gen-movie-meta-holder">
                                                 <ul>
                                                     <li>0 Seasons</li>
                                                     <li>
-                                                        <a href="comedy.php"><span>Comedy</span></a>
+                                                        <a href="comedy"><span>Comedy</span></a>
                                                     </li>
                                                 </ul>
                                             </div>
@@ -358,20 +358,20 @@
                                                 </div>
                                             </div>
                                             <div class="gen-movie-action">
-                                                <a href="single-tv-shows.php" class="gen-button">
+                                                <a href="single-tv-shows" class="gen-button">
                                                     <i class="fa fa-play"></i>
                                                 </a>
                                             </div>
                                         </div>
                                         <div class="gen-info-contain">
                                             <div class="gen-movie-info">
-                                                <h3><a href="single-tv-shows.php">Vacation Life</a></h3>
+                                                <h3><a href="single-tv-shows">Vacation Life</a></h3>
                                             </div>
                                             <div class="gen-movie-meta-holder">
                                                 <ul>
                                                     <li>1 Season</li>
                                                     <li>
-                                                        <a href="adventure.php"><span>Adventure</span></a>
+                                                        <a href="adventure"><span>Adventure</span></a>
                                                     </li>
                                                 </ul>
                                             </div>
@@ -421,20 +421,20 @@
                                                 </div>
                                             </div>
                                             <div class="gen-movie-action">
-                                                <a href="single-tv-shows.php" class="gen-button">
+                                                <a href="single-tv-shows" class="gen-button">
                                                     <i class="fa fa-play"></i>
                                                 </a>
                                             </div>
                                         </div>
                                         <div class="gen-info-contain">
                                             <div class="gen-movie-info">
-                                                <h3><a href="single-tv-shows.php">Dream Of Dargons</a></h3>
+                                                <h3><a href="single-tv-shows">Dream Of Dargons</a></h3>
                                             </div>
                                             <div class="gen-movie-meta-holder">
                                                 <ul>
                                                     <li>1 Season</li>
                                                     <li>
-                                                        <a href="drama.php"><span>Drama</span></a>
+                                                        <a href="drama"><span>Drama</span></a>
                                                     </li>
                                                 </ul>
                                             </div>
@@ -483,20 +483,20 @@
                                                 </div>
                                             </div>
                                             <div class="gen-movie-action">
-                                                <a href="single-tv-shows.php" class="gen-button">
+                                                <a href="single-tv-shows" class="gen-button">
                                                     <i class="fa fa-play"></i>
                                                 </a>
                                             </div>
                                         </div>
                                         <div class="gen-info-contain">
                                             <div class="gen-movie-info">
-                                                <h3><a href="single-tv-shows.php">Command In Your Hand</a></h3>
+                                                <h3><a href="single-tv-shows">Command In Your Hand</a></h3>
                                             </div>
                                             <div class="gen-movie-meta-holder">
                                                 <ul>
                                                     <li>1 Season</li>
                                                     <li>
-                                                        <a href="comedy.php"><span>Comedy</span></a>
+                                                        <a href="comedy"><span>Comedy</span></a>
                                                     </li>
                                                 </ul>
                                             </div>
@@ -546,20 +546,20 @@
                                                 </div>
                                             </div>
                                             <div class="gen-movie-action">
-                                                <a href="single-tv-shows.php" class="gen-button">
+                                                <a href="single-tv-shows" class="gen-button">
                                                     <i class="fa fa-play"></i>
                                                 </a>
                                             </div>
                                         </div>
                                         <div class="gen-info-contain">
                                             <div class="gen-movie-info">
-                                                <h3><a href="single-tv-shows.php">Stories Of the Dark</a></h3>
+                                                <h3><a href="single-tv-shows">Stories Of the Dark</a></h3>
                                             </div>
                                             <div class="gen-movie-meta-holder">
                                                 <ul>
                                                     <li>1 Season</li>
                                                     <li>
-                                                        <a href="biography.php"><span>Biography</span></a>
+                                                        <a href="biography"><span>Biography</span></a>
                                                     </li>
                                                 </ul>
                                             </div>
@@ -609,20 +609,20 @@
                                                 </div>
                                             </div>
                                             <div class="gen-movie-action">
-                                                <a href="single-tv-shows.php" class="gen-button">
+                                                <a href="single-tv-shows" class="gen-button">
                                                     <i class="fa fa-play"></i>
                                                 </a>
                                             </div>
                                         </div>
                                         <div class="gen-info-contain">
                                             <div class="gen-movie-info">
-                                                <h3><a href="single-tv-shows.php">Friend Of Jin</a></h3>
+                                                <h3><a href="single-tv-shows">Friend Of Jin</a></h3>
                                             </div>
                                             <div class="gen-movie-meta-holder">
                                                 <ul>
                                                     <li>1 Season</li>
                                                     <li>
-                                                        <a href="drama.php"><span>Drama</span></a>
+                                                        <a href="drama"><span>Drama</span></a>
                                                     </li>
                                                 </ul>
                                             </div>
@@ -672,20 +672,20 @@
                                                 </div>
                                             </div>
                                             <div class="gen-movie-action">
-                                                <a href="single-tv-shows.php" class="gen-button">
+                                                <a href="single-tv-shows" class="gen-button">
                                                     <i class="fa fa-play"></i>
                                                 </a>
                                             </div>
                                         </div>
                                         <div class="gen-info-contain">
                                             <div class="gen-movie-info">
-                                                <h3><a href="single-tv-shows.php">3 Hacker:TBG</a></h3>
+                                                <h3><a href="single-tv-shows">3 Hacker:TBG</a></h3>
                                             </div>
                                             <div class="gen-movie-meta-holder">
                                                 <ul>
                                                     <li>1 Season</li>
                                                     <li>
-                                                        <a href="drama.php"><span>Drama</span></a>
+                                                        <a href="drama"><span>Drama</span></a>
                                                     </li>
                                                 </ul>
                                             </div>
@@ -735,20 +735,20 @@
                                                 </div>
                                             </div>
                                             <div class="gen-movie-action">
-                                                <a href="single-tv-shows.php" class="gen-button">
+                                                <a href="single-tv-shows" class="gen-button">
                                                     <i class="fa fa-play"></i>
                                                 </a>
                                             </div>
                                         </div>
                                         <div class="gen-info-contain">
                                             <div class="gen-movie-info">
-                                                <h3><a href="single-tv-shows.php">Play For Life</a></h3>
+                                                <h3><a href="single-tv-shows">Play For Life</a></h3>
                                             </div>
                                             <div class="gen-movie-meta-holder">
                                                 <ul>
                                                     <li>1 Season</li>
                                                     <li>
-                                                        <a href="action.php"><span>Action</span></a>
+                                                        <a href="action"><span>Action</span></a>
                                                     </li>
                                                 </ul>
                                             </div>
@@ -798,20 +798,20 @@
                                                 </div>
                                             </div>
                                             <div class="gen-movie-action">
-                                                <a href="single-tv-shows.php" class="gen-button">
+                                                <a href="single-tv-shows" class="gen-button">
                                                     <i class="fa fa-play"></i>
                                                 </a>
                                             </div>
                                         </div>
                                         <div class="gen-info-contain">
                                             <div class="gen-movie-info">
-                                                <h3><a href="single-tv-shows.php">War With Robots</a></h3>
+                                                <h3><a href="single-tv-shows">War With Robots</a></h3>
                                             </div>
                                             <div class="gen-movie-meta-holder">
                                                 <ul>
                                                     <li>0 Seasons</li>
                                                     <li>
-                                                        <a href="action.php"><span>Action</span></a>
+                                                        <a href="action"><span>Action</span></a>
                                                     </li>
                                                 </ul>
                                             </div>
@@ -861,20 +861,20 @@
                                                 </div>
                                             </div>
                                             <div class="gen-movie-action">
-                                                <a href="single-tv-shows.php" class="gen-button">
+                                                <a href="single-tv-shows" class="gen-button">
                                                     <i class="fa fa-play"></i>
                                                 </a>
                                             </div>
                                         </div>
                                         <div class="gen-info-contain">
                                             <div class="gen-movie-info">
-                                                <h3><a href="single-tv-shows.php">Story Of Mahauki Shark</a></h3>
+                                                <h3><a href="single-tv-shows">Story Of Mahauki Shark</a></h3>
                                             </div>
                                             <div class="gen-movie-meta-holder">
                                                 <ul>
                                                     <li>0 Seasons</li>
                                                     <li>
-                                                        <a href="comedy.php"><span>Comedy</span></a>
+                                                        <a href="comedy"><span>Comedy</span></a>
                                                     </li>
                                                 </ul>
                                             </div>
@@ -924,20 +924,20 @@
                                                 </div>
                                             </div>
                                             <div class="gen-movie-action">
-                                                <a href="single-tv-shows.php" class="gen-button">
+                                                <a href="single-tv-shows" class="gen-button">
                                                     <i class="fa fa-play"></i>
                                                 </a>
                                             </div>
                                         </div>
                                         <div class="gen-info-contain">
                                             <div class="gen-movie-info">
-                                                <h3><a href="single-tv-shows.php">Kimu-The pet elephant</a></h3>
+                                                <h3><a href="single-tv-shows">Kimu-The pet elephant</a></h3>
                                             </div>
                                             <div class="gen-movie-meta-holder">
                                                 <ul>
                                                     <li>0 Seasons</li>
                                                     <li>
-                                                        <a href="action.php"><span>Action</span></a>
+                                                        <a href="action"><span>Action</span></a>
                                                     </li>
                                                 </ul>
                                             </div>
@@ -987,20 +987,20 @@
                                                 </div>
                                             </div>
                                             <div class="gen-movie-action">
-                                                <a href="single-tv-shows.php" class="gen-button">
+                                                <a href="single-tv-shows" class="gen-button">
                                                     <i class="fa fa-play"></i>
                                                 </a>
                                             </div>
                                         </div>
                                         <div class="gen-info-contain">
                                             <div class="gen-movie-info">
-                                                <h3><a href="single-tv-shows.php">Story Of Mega Structes</a></h3>
+                                                <h3><a href="single-tv-shows">Story Of Mega Structes</a></h3>
                                             </div>
                                             <div class="gen-movie-meta-holder">
                                                 <ul>
                                                     <li>0 Seasons</li>
                                                     <li>
-                                                        <a href="action.php"><span>Action</span></a>
+                                                        <a href="action"><span>Action</span></a>
                                                     </li>
                                                 </ul>
                                             </div>
@@ -1050,20 +1050,20 @@
                                                 </div>
                                             </div>
                                             <div class="gen-movie-action">
-                                                <a href="single-tv-shows.php" class="gen-button">
+                                                <a href="single-tv-shows" class="gen-button">
                                                     <i class="fa fa-play"></i>
                                                 </a>
                                             </div>
                                         </div>
                                         <div class="gen-info-contain">
                                             <div class="gen-movie-info">
-                                                <h3><a href="single-tv-shows.php">Live In My Dreams</a></h3>
+                                                <h3><a href="single-tv-shows">Live In My Dreams</a></h3>
                                             </div>
                                             <div class="gen-movie-meta-holder">
                                                 <ul>
                                                     <li>0 Seasons</li>
                                                     <li>
-                                                        <a href="comedy.php"><span>Comedy</span></a>
+                                                        <a href="comedy"><span>Comedy</span></a>
                                                     </li>
                                                 </ul>
                                             </div>
@@ -1091,7 +1091,7 @@
     <!-- Section-1 End -->
 
     <!-- footer start -->
-<?php include("includes/footer.php"); ?>
+<?php include("includes/footer"); ?>
     <!-- footer End -->
 
     <!-- Back-to-Top start -->
