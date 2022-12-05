@@ -57,7 +57,7 @@
                                                     </div>
                                                     <div class="gen-movie-action">
                                                         <div class="gen-btn-container button-1">
-                                                            <a class="gen-button" href="single-movie" tabindex="0">
+                                                            <a class="gen-button" href="single-tv-shows" tabindex="0">
                                                                 <i aria-hidden="true" class="ion ion-play"></i>
                                                                 <span class="text">Play Now</span>
                                                             </a>
@@ -86,7 +86,7 @@
                                                     </div>
                                                     <div class="gen-movie-action">
                                                         <div class="gen-btn-container button-1">
-                                                            <a class="gen-button" href="single-movie" tabindex="0">
+                                                            <a class="gen-button" href="single-tv-shows" tabindex="0">
                                                                 <i aria-hidden="true" class="ion ion-play"></i>
                                                                 <span class="text">Play Now</span>
                                                             </a>
@@ -115,7 +115,7 @@
                                                     </div>
                                                     <div class="gen-movie-action">
                                                         <div class="gen-btn-container button-1">
-                                                            <a class="gen-button" href="single-movie" tabindex="0">
+                                                            <a class="gen-button" href="single-tv-shows" tabindex="0">
                                                                 <i aria-hidden="true" class="ion ion-play"></i>
                                                                 <span class="text">Play Now</span>
                                                             </a>
@@ -143,7 +143,7 @@
                                                     </div>
                                                     <div class="gen-movie-action">
                                                         <div class="gen-btn-container button-1">
-                                                            <a class="gen-button" href="single-movie" tabindex="0">
+                                                            <a class="gen-button" href="single-tv-shows" tabindex="0">
                                                                 <i aria-hidden="true" class="ion ion-play"></i>
                                                                 <span class="text">Play Now</span>
                                                             </a>
@@ -233,7 +233,7 @@
                     <div class="gen-movie-action">
                         <div class="gen-btn-container text-right">
                             <a href="tv-shows-pagination" class="gen-button gen-button-flat">
-                                <span class="text">More Videos</span>
+                                <span class="text">More Tv Shows</span>
                             </a>
                         </div>
                     </div>
@@ -290,14 +290,14 @@
                                                     </div>
                                                 </div>
                                                 <div class="gen-movie-action">
-                                                    <a href="single-movie" class="gen-button">
+                                                    <a href="single-tv-shows" class="gen-button">
                                                         <i class="fa fa-play"></i>
                                                     </a>
                                                 </div>
                                             </div>
                                             <div class="gen-info-contain">
                                                 <div class="gen-movie-info">
-                                                    <h3><a href="single-movie">Ghost of Sky</a></h3>
+                                                    <h3><a href="single-tv-shows">Ghost of Sky</a></h3>
                                                 </div>
                                                 <div class="gen-movie-meta-holder">
                                                     <ul>
@@ -357,14 +357,14 @@
                                                     </div>
                                                 </div>
                                                 <div class="gen-movie-action">
-                                                    <a href="single-movie" class="gen-button">
+                                                    <a href="single-tv-shows" class="gen-button">
                                                         <i class="fa fa-play"></i>
                                                     </a>
                                                 </div>
                                             </div>
                                             <div class="gen-info-contain">
                                                 <div class="gen-movie-info">
-                                                    <h3><a href="single-movie">Love In 21st</a></h3>
+                                                    <h3><a href="single-tv-shows">Love In 21st</a></h3>
                                                 </div>
                                                 <div class="gen-movie-meta-holder">
                                                     <ul>
@@ -424,14 +424,14 @@
                                                     </div>
                                                 </div>
                                                 <div class="gen-movie-action">
-                                                    <a href="single-movie" class="gen-button">
+                                                    <a href="single-tv-shows" class="gen-button">
                                                         <i class="fa fa-play"></i>
                                                     </a>
                                                 </div>
                                             </div>
                                             <div class="gen-info-contain">
                                                 <div class="gen-movie-info">
-                                                    <h3><a href="single-movie">Family Love</a></h3>
+                                                    <h3><a href="single-tv-shows">Family Love</a></h3>
                                                 </div>
                                                 <div class="gen-movie-meta-holder">
                                                     <ul>
@@ -491,14 +491,14 @@
                                                     </div>
                                                 </div>
                                                 <div class="gen-movie-action">
-                                                    <a href="single-movie" class="gen-button">
+                                                    <a href="single-tv-shows" class="gen-button">
                                                         <i class="fa fa-play"></i>
                                                     </a>
                                                 </div>
                                             </div>
                                             <div class="gen-info-contain">
                                                 <div class="gen-movie-info">
-                                                    <h3><a href="single-movie">Dance nation Dance</a></h3>
+                                                    <h3><a href="single-tv-shows">Dance nation Dance</a></h3>
                                                 </div>
                                                 <div class="gen-movie-meta-holder">
                                                     <ul>
@@ -558,14 +558,14 @@
                                                     </div>
                                                 </div>
                                                 <div class="gen-movie-action">
-                                                    <a href="single-movie" class="gen-button">
+                                                    <a href="single-tv-shows" class="gen-button">
                                                         <i class="fa fa-play"></i>
                                                     </a>
                                                 </div>
                                             </div>
                                             <div class="gen-info-contain">
                                                 <div class="gen-movie-info">
-                                                    <h3><a href="single-movie">Vacation Life</a></h3>
+                                                    <h3><a href="single-tv-shows">Vacation Life</a></h3>
                                                 </div>
                                                 <div class="gen-movie-meta-holder">
                                                     <ul>
@@ -625,14 +625,14 @@
                                                     </div>
                                                 </div>
                                                 <div class="gen-movie-action">
-                                                    <a href="single-movie" class="gen-button">
+                                                    <a href="single-tv-shows" class="gen-button">
                                                         <i class="fa fa-play"></i>
                                                     </a>
                                                 </div>
                                             </div>
                                             <div class="gen-info-contain">
                                                 <div class="gen-movie-info">
-                                                    <h3><a href="single-movie">Dream Of Dargons</a></h3>
+                                                    <h3><a href="single-tv-shows">Dream Of Dargons</a></h3>
                                                 </div>
                                                 <div class="gen-movie-meta-holder">
                                                     <ul>
@@ -692,14 +692,14 @@
                                                     </div>
                                                 </div>
                                                 <div class="gen-movie-action">
-                                                    <a href="single-movie" class="gen-button">
+                                                    <a href="single-tv-shows" class="gen-button">
                                                         <i class="fa fa-play"></i>
                                                     </a>
                                                 </div>
                                             </div>
                                             <div class="gen-info-contain">
                                                 <div class="gen-movie-info">
-                                                    <h3><a href="single-movie">Command In Your Hand</a></h3>
+                                                    <h3><a href="single-tv-shows">Command In Your Hand</a></h3>
                                                 </div>
                                                 <div class="gen-movie-meta-holder">
                                                     <ul>
@@ -759,14 +759,14 @@
                                                     </div>
                                                 </div>
                                                 <div class="gen-movie-action">
-                                                    <a href="single-movie" class="gen-button">
+                                                    <a href="single-tv-shows" class="gen-button">
                                                         <i class="fa fa-play"></i>
                                                     </a>
                                                 </div>
                                             </div>
                                             <div class="gen-info-contain">
                                                 <div class="gen-movie-info">
-                                                    <h3><a href="single-movie">Stories Of the Dark</a></h3>
+                                                    <h3><a href="single-tv-shows">Stories Of the Dark</a></h3>
                                                 </div>
                                                 <div class="gen-movie-meta-holder">
                                                     <ul>
@@ -826,14 +826,14 @@
                                                     </div>
                                                 </div>
                                                 <div class="gen-movie-action">
-                                                    <a href="single-movie" class="gen-button">
+                                                    <a href="single-tv-shows" class="gen-button">
                                                         <i class="fa fa-play"></i>
                                                     </a>
                                                 </div>
                                             </div>
                                             <div class="gen-info-contain">
                                                 <div class="gen-movie-info">
-                                                    <h3><a href="single-movie">Friend Of Jin</a></h3>
+                                                    <h3><a href="single-tv-shows">Friend Of Jin</a></h3>
                                                 </div>
                                                 <div class="gen-movie-meta-holder">
                                                     <ul>
@@ -893,14 +893,14 @@
                                                     </div>
                                                 </div>
                                                 <div class="gen-movie-action">
-                                                    <a href="single-movie" class="gen-button">
+                                                    <a href="single-tv-shows" class="gen-button">
                                                         <i class="fa fa-play"></i>
                                                     </a>
                                                 </div>
                                             </div>
                                             <div class="gen-info-contain">
                                                 <div class="gen-movie-info">
-                                                    <h3><a href="single-movie">3 Hacker:TBG</a></h3>
+                                                    <h3><a href="single-tv-shows">3 Hacker:TBG</a></h3>
                                                 </div>
                                                 <div class="gen-movie-meta-holder">
                                                     <ul>
@@ -934,7 +934,7 @@
                     <div class="gen-movie-action">
                         <div class="gen-btn-container text-right">
                             <a href="tv-shows-pagination" class="gen-button gen-button-flat">
-                                <span class="text">More Videos</span>
+                                <span class="text">More Tv Shows</span>
                             </a>
                         </div>
                     </div>
@@ -991,14 +991,14 @@
                                                     </div>
                                                 </div>
                                                 <div class="gen-movie-action">
-                                                    <a href="single-movie" class="gen-button">
+                                                    <a href="single-tv-shows" class="gen-button">
                                                         <i class="fa fa-play"></i>
                                                     </a>
                                                 </div>
                                             </div>
                                             <div class="gen-info-contain">
                                                 <div class="gen-movie-info">
-                                                    <h3><a href="single-movie">Dream Of Dargons</a></h3>
+                                                    <h3><a href="single-tv-shows">Dream Of Dargons</a></h3>
                                                 </div>
                                                 <div class="gen-movie-meta-holder">
                                                     <ul>
@@ -1058,14 +1058,14 @@
                                                     </div>
                                                 </div>
                                                 <div class="gen-movie-action">
-                                                    <a href="single-movie" class="gen-button">
+                                                    <a href="single-tv-shows" class="gen-button">
                                                         <i class="fa fa-play"></i>
                                                     </a>
                                                 </div>
                                             </div>
                                             <div class="gen-info-contain">
                                                 <div class="gen-movie-info">
-                                                    <h3><a href="single-movie">Play For Life</a></h3>
+                                                    <h3><a href="single-tv-shows">Play For Life</a></h3>
                                                 </div>
                                                 <div class="gen-movie-meta-holder">
                                                     <ul>
@@ -1125,14 +1125,14 @@
                                                     </div>
                                                 </div>
                                                 <div class="gen-movie-action">
-                                                    <a href="single-movie" class="gen-button">
+                                                    <a href="single-tv-shows" class="gen-button">
                                                         <i class="fa fa-play"></i>
                                                     </a>
                                                 </div>
                                             </div>
                                             <div class="gen-info-contain">
                                                 <div class="gen-movie-info">
-                                                    <h3><a href="single-movie">War With Robots</a></h3>
+                                                    <h3><a href="single-tv-shows">War With Robots</a></h3>
                                                 </div>
                                                 <div class="gen-movie-meta-holder">
                                                     <ul>
@@ -1192,14 +1192,14 @@
                                                     </div>
                                                 </div>
                                                 <div class="gen-movie-action">
-                                                    <a href="single-movie" class="gen-button">
+                                                    <a href="single-tv-shows" class="gen-button">
                                                         <i class="fa fa-play"></i>
                                                     </a>
                                                 </div>
                                             </div>
                                             <div class="gen-info-contain">
                                                 <div class="gen-movie-info">
-                                                    <h3><a href="single-movie">Story Of Mahauki Shark</a></h3>
+                                                    <h3><a href="single-tv-shows">Story Of Mahauki Shark</a></h3>
                                                 </div>
                                                 <div class="gen-movie-meta-holder">
                                                     <ul>
@@ -1256,7 +1256,7 @@
                                                 </div>
                                                 <div class="gen-movie-action">
                                                     <div class="gen-btn-container button-1">
-                                                        <a href="single-movie" class="gen-button">
+                                                        <a href="single-tv-shows" class="gen-button">
                                                             <i aria-hidden="true" class="ion ion-play"></i> <span
                                                                 class="text">Play Now</span>
                                                         </a>
@@ -1290,7 +1290,7 @@
                                                 </div>
                                                 <div class="gen-movie-action">
                                                     <div class="gen-btn-container button-1">
-                                                        <a href="single-movie" class="gen-button">
+                                                        <a href="single-tv-shows" class="gen-button">
                                                             <i aria-hidden="true" class="ion ion-play"></i> <span
                                                                 class="text">Play Now</span>
                                                         </a>
@@ -1326,7 +1326,7 @@
                                                 </div>
                                                 <div class="gen-movie-action">
                                                     <div class="gen-btn-container button-1">
-                                                        <a href="single-movie" class="gen-button">
+                                                        <a href="single-tv-shows" class="gen-button">
                                                             <i aria-hidden="true" class="ion ion-play"></i> <span
                                                                 class="text">Play Now</span>
                                                         </a>
@@ -1356,7 +1356,7 @@
                     <div class="gen-movie-action">
                         <div class="gen-btn-container text-right">
                             <a href="tv-shows-pagination" class="gen-button gen-button-flat">
-                                <span class="text">More Videos</span>
+                                <span class="text">More Tv Shows</span>
                             </a>
                         </div>
                     </div>
@@ -1413,14 +1413,14 @@
                                                     </div>
                                                 </div>
                                                 <div class="gen-movie-action">
-                                                    <a href="single-movie" class="gen-button">
+                                                    <a href="single-tv-shows" class="gen-button">
                                                         <i class="fa fa-play"></i>
                                                     </a>
                                                 </div>
                                             </div>
                                             <div class="gen-info-contain">
                                                 <div class="gen-movie-info">
-                                                    <h3><a href="single-movie">Love In 21st</a></h3>
+                                                    <h3><a href="single-tv-shows">Love In 21st</a></h3>
                                                 </div>
                                                 <div class="gen-movie-meta-holder">
                                                     <ul>
@@ -1480,14 +1480,14 @@
                                                     </div>
                                                 </div>
                                                 <div class="gen-movie-action">
-                                                    <a href="single-movie" class="gen-button">
+                                                    <a href="single-tv-shows" class="gen-button">
                                                         <i class="fa fa-play"></i>
                                                     </a>
                                                 </div>
                                             </div>
                                             <div class="gen-info-contain">
                                                 <div class="gen-movie-info">
-                                                    <h3><a href="single-movie">Play For Life</a></h3>
+                                                    <h3><a href="single-tv-shows">Play For Life</a></h3>
                                                 </div>
                                                 <div class="gen-movie-meta-holder">
                                                     <ul>
@@ -1547,14 +1547,14 @@
                                                     </div>
                                                 </div>
                                                 <div class="gen-movie-action">
-                                                    <a href="single-movie" class="gen-button">
+                                                    <a href="single-tv-shows" class="gen-button">
                                                         <i class="fa fa-play"></i>
                                                     </a>
                                                 </div>
                                             </div>
                                             <div class="gen-info-contain">
                                                 <div class="gen-movie-info">
-                                                    <h3><a href="single-movie">Kimu-The pet elephant</a></h3>
+                                                    <h3><a href="single-tv-shows">Kimu-The pet elephant</a></h3>
                                                 </div>
                                                 <div class="gen-movie-meta-holder">
                                                     <ul>
@@ -1614,14 +1614,14 @@
                                                     </div>
                                                 </div>
                                                 <div class="gen-movie-action">
-                                                    <a href="single-movie" class="gen-button">
+                                                    <a href="single-tv-shows" class="gen-button">
                                                         <i class="fa fa-play"></i>
                                                     </a>
                                                 </div>
                                             </div>
                                             <div class="gen-info-contain">
                                                 <div class="gen-movie-info">
-                                                    <h3><a href="single-movie">Against Beast</a></h3>
+                                                    <h3><a href="single-tv-shows">Against Beast</a></h3>
                                                 </div>
                                                 <div class="gen-movie-meta-holder">
                                                     <ul>

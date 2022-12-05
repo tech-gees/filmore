@@ -27,13 +27,12 @@
                                     <li class="menu-item">
                                         <a href="index" aria-current="page">Home</a>
                                     </li>
-                                    <li class="menu-item"><a href="movies-pagination">Movies</a></li>
-                                    <li class="menu-item"><a href="tv-shows-pagination">Tv Shows</a></li>
-                                    <li class="menu-item"><a href="video-pagination">Videos</a></li>
-                                    <li class="menu-item"><a href="#">Actors</a></li>
-                                    <li class="menu-item"><a href="#">Basketball</a></li>
-                                    <li class="menu-item"><a href="#">Celebrity</a></li>
-                                    <li class="menu-item"><a href="#">Cross</a></li>
+                                    <li class="menu-item"><a href="movies-home">Movies</a></li>
+                                    <li class="menu-item"><a href="tv-shows-home">Tv Shows</a></li>
+                                    <li class="menu-item"><a href="#">Action</a></li>
+                                    <li class="menu-item"><a href="#">Horror</a></li>
+                                    <li class="menu-item"><a href="#">Romance</a></li>
+                                    <li class="menu-item"><a href="#">Mystery</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -52,7 +51,7 @@
                                     <li class="menu-item"><a href="contact-us">Help
                                             Center</a></li>
                                     <li class="menu-item"><a href="contact-us">contact us</a></li>
-                                    <li class="menu-item"><a href="pricing-style-1">Subscribe</a></li>
+                                    <li class="menu-item"><a href="pricing-style-2">Subscribe</a></li>
                                     <li class="menu-item"><a href="#">Our Team</a></li>
                                     <li class="menu-item"><a href="contact-us">Faq</a></li>
                                 </ul>
@@ -61,7 +60,7 @@
                     </div>
                     <div class="col-xl-3  col-md-6">
                         <div class="widget">
-                            <h4 class="footer-title">Downlaod App</h4>
+                            <h4 class="footer-title">Download App</h4>
                             <div class="row">
                                 <div class="col-sm-12">
                                     <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>

@@ -11,7 +11,7 @@
                             <div id="gen-menu-contain" class="gen-menu-contain">
                                 <ul id="gen-main-menu" class="navbar-nav ml-auto">
                                     <li class="menu-item active">
-                                        <a href="#" aria-current="page">Home</a>
+                                        <a href="index" aria-current="page">Home</a>
                                         <i class="fa fa-chevron-down gen-submenu-icon"></i>
                                         <ul class="sub-menu">
                                             <li class="menu-item active">
@@ -23,168 +23,43 @@
                                             <li class="menu-item">
                                                 <a href="tv-shows-home" aria-current="page">Tv Shows Home</a>
                                             </li>
+                                        </ul>
+                                    </li>
+                                    <li class="menu-item">
+                                        <a href="movies-home">Movies</a>
+                                        <i class="fa fa-chevron-down gen-submenu-icon"></i>
+                                        <ul class="sub-menu">
                                             <li class="menu-item">
-                                                <a href="video-home" aria-current="page">Video Home</a>
+                                                <a href="movies-home">Movies Home</a>
+                                            </li>
+                                            <li class="menu-item">
+                                                <a href="movies-pagination">Movies list</a>
                                             </li>
                                         </ul>
                                     </li>
                                     <li class="menu-item">
-                                        <a href="#">Movies</a>
+                                        <a href="movies-home">Categories</a>
                                         <i class="fa fa-chevron-down gen-submenu-icon"></i>
                                         <ul class="sub-menu">
-                                            <li class="menu-item menu-item-has-children">
-                                                <a href="#">Movies List</a>
-                                                <i class="fa fa-chevron-down gen-submenu-icon"></i>
-                                                <ul class="sub-menu">
-                                                    <li class="menu-item">
-                                                        <a href="movies-load-more">Load More</a>
-                                                    </li>
-                                                    <li class="menu-item">
-                                                        <a href="movies-infinite-scroll">Infinite scroll</a>
-                                                    </li>
-                                                    <li class="menu-item">
-                                                        <a href="movies-pagination">Pagination</a>
-                                                    </li>
-                                                </ul>
-                                            </li>
-                                            <li class="menu-item menu-item-has-children">
-                                                <a href="#">Movies Style</a>
-                                                <i class="fa fa-chevron-down gen-submenu-icon"></i>
-                                                <ul class="sub-menu">
-                                                    <li class="menu-item">
-                                                        <a href="movies-style-1">Style 1</a>
-                                                    </li>
-                                                    <li class="menu-item">
-                                                        <a href="movies-style-2">Style 2</a>
-                                                    </li>
-                                                    <li class="menu-item">
-                                                        <a href="movies-style-3">Style 3</a>
-                                                    </li>
-                                                </ul>
+                                            <li class="menu-item">
+                                                <a href="Action">Action</a>
                                             </li>
                                             <li class="menu-item">
-                                                <a href="single-movie">Single Movie</a>
+                                                <a href="horror">Horror</a>
                                             </li>
                                         </ul>
                                     </li>
                                     <li class="menu-item">
-                                        <a href="#">Tv Shows</a>
+                                        <a href="tv-shows-home">Tv Shows</a>
                                         <i class="fa fa-chevron-down gen-submenu-icon"></i>
                                         <ul class="sub-menu">
-                                            <li class="menu-item menu-item-has-children">
-                                                <a href="#">Tv Shows List</a>
-                                                <i class="fa fa-chevron-down gen-submenu-icon"></i>
-                                                <ul class="sub-menu">
-                                                    <li class="menu-item">
-                                                        <a href="tv-shows-load-more">Load More</a>
-                                                    </li>
-                                                    <li class="menu-item">
-                                                        <a href="tv-shows-infinite-scroll">Infinite scroll</a>
-                                                    </li>
-                                                    <li class="menu-item">
-                                                        <a href="tv-shows-pagination">Pagination</a>
-                                                    </li>
-                                                </ul>
-                                            </li>
-                                            <li class="menu-item menu-item-has-children">
-                                                <a href="#">Tv Shows Style</a>
-                                                <i class="fa fa-chevron-down gen-submenu-icon"></i>
-                                                <ul class="sub-menu">
-                                                    <li class="menu-item">
-                                                        <a href="tv-shows-style-1">Style 1</a>
-                                                    </li>
-                                                    <li class="menu-item">
-                                                        <a href="tv-shows-style-2">Style 2</a>
-                                                    </li>
-                                                    <li class="menu-item">
-                                                        <a href="tv-shows-style-3">Style 3</a>
-                                                    </li>
-                                                </ul>
+                                            <li class="menu-item">
+                                                <a href="tv-shows-home">Tv Shows Home</a>
                                             </li>
                                             <li class="menu-item">
-                                                <a href="single-tv-shows">Single Tv Shows</a>
+                                                <a href="tv-shows-pagination">Tv Shows list</a>
                                             </li>
-                                            <li class="menu-item">
-                                                <a href="single-episode">Single Episode</a>
-                                            </li>
-                                        </ul>
-                                    </li>
-                                    <li class="menu-item">
-                                        <a href="#">Video</a>
-                                        <i class="fa fa-chevron-down gen-submenu-icon"></i>
-                                        <ul class="sub-menu">
-                                            <li class="menu-item menu-item-has-children">
-                                                <a href="#">Video</a>
-                                                <i class="fa fa-chevron-down gen-submenu-icon"></i>
-                                                <ul class="sub-menu">
-                                                    <li class="menu-item">
-                                                        <a href="video-load-more">Load More</a>
-                                                    </li>
-                                                    <li class="menu-item">
-                                                        <a href="video-infinite-scroll">Infinite scroll</a>
-                                                    </li>
-                                                    <li class="menu-item">
-                                                        <a href="video-pagination">Pagination</a>
-                                                    </li>
-                                                </ul>
-                                            </li>
-                                            <li class="menu-item menu-item-has-children">
-                                                <a href="#">Videos Style</a>
-                                                <i class="fa fa-chevron-down gen-submenu-icon"></i>
-                                                <ul class="sub-menu">
-                                                    <li class="menu-item">
-                                                        <a href="videos-style-1">Style 1</a>
-                                                    </li>
-                                                    <li class="menu-item">
-                                                        <a href="videos-style-2">Style 2</a>
-                                                    </li>
-                                                    <li class="menu-item">
-                                                        <a href="videos-style-3">Style 3</a>
-                                                    </li>
-                                                </ul>
-                                            </li>
-                                            <li class="menu-item">
-                                                <a href="single-videos">Single videos</a>
-                                            </li>
-                                        </ul>
-                                    </li>
-                                    <li class="menu-item">
-                                        <a href="#">Pages</a>
-                                        <i class="fa fa-chevron-down gen-submenu-icon"></i>
-                                        <ul class="sub-menu">
-                                            <li class="menu-item menu-item-has-children">
-                                                <a href="#">Blog</a>
-                                                <i class="fa fa-chevron-down gen-submenu-icon"></i>
-                                                <ul class="sub-menu">
-                                                    <li class="menu-item menu-item-has-children">
-                                                        <a href="#">Blog With Sidebar</a>
-                                                        <i class="fa fa-chevron-down gen-submenu-icon"></i>
-                                                        <ul class="sub-menu">
-                                                            <li class="menu-item">
-                                                                <a href="blog-left-sidebar">blog left sidebar</a>
-                                                            </li>
-                                                            <li class="menu-item">
-                                                                <a href="blog-right-sidebar">blog right sidebar</a>
-                                                            </li>
-                                                        </ul>
-                                                    </li>
-                                                </ul>
-                                            </li>
-                                            <li class="menu-item menu-item-has-children">
-                                                <a href="#">Pricing</a>
-                                                <i class="fa fa-chevron-down gen-submenu-icon"></i>
-                                                <ul class="sub-menu">
-                                                    <li class="menu-item">
-                                                        <a href="pricing-style-1">Style 1</a>
-                                                    </li>
-                                                    <li class="menu-item">
-                                                        <a href="pricing-style-2">Style 2</a>
-                                                    </li>
-                                                </ul>
-                                            </li>
-                                            <li class="menu-item">
-                                                <a href="contact-us">Contact Us</a>
-                                            </li>
+
                                         </ul>
                                     </li>
                                 </ul>
@@ -226,19 +101,15 @@
                                         </li>
                                         <li>
                                             <a href="library"><i class="fa fa-list"></i>
-                                                Movie Playlist </a>
+                                            App Setting </a>
                                         </li>
                                         <li>
-                                            <a href="library"><i class="fa fa-list"></i>
-                                                Tv Show Playlist </a>
+                                            <a href="pricing-style-2"><i class="fa fa-list"></i>
+                                            Pricing </a>
                                         </li>
                                         <li>
-                                            <a href="library"><i class="fa fa-list"></i>
-                                                Video Playlist </a>
-                                        </li>
-                                        <li>
-                                            <a href="upload-video"> <i class="fa fa-upload"></i>
-                                                Upload Video </a>
+                                            <a href="contact-us"><i class="fa fa-list"></i>
+                                            Contact Us </a>
                                         </li>
                                     </ul>
                                 </div>

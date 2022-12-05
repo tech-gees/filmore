@@ -104,7 +104,7 @@
                                                 <div class="gen-episode-img">
                                                     <img src="images/background/asset-15.jpeg" alt="stream-lab-image">
                                                     <div class="gen-movie-action">
-                                                        <a href="tv-shows-home" class="gen-button">
+                                                        <a href="single-episode" class="gen-button">
                                                             <i class="fa fa-play"></i>
                                                         </a>
                                                     </div>
@@ -134,7 +134,7 @@
                                                 <div class="gen-episode-img">
                                                     <img src="images/background/asset-15.jpeg" alt="stream-lab-image">
                                                     <div class="gen-movie-action">
-                                                        <a href="tv-shows-home" class="gen-button">
+                                                        <a href="single-episode" class="gen-button">
                                                             <i class="fa fa-play"></i>
                                                         </a>
                                                     </div>
@@ -164,7 +164,7 @@
                                                 <div class="gen-episode-img">
                                                     <img src="images/background/asset-15.jpeg" alt="stream-lab-image">
                                                     <div class="gen-movie-action">
-                                                        <a href="tv-shows-home" class="gen-button">
+                                                        <a href="single-episode" class="gen-button">
                                                             <i class="fa fa-play"></i>
                                                         </a>
                                                     </div>
@@ -194,7 +194,7 @@
                                                 <div class="gen-episode-img">
                                                     <img src="images/background/asset-15.jpeg" alt="stream-lab-image">
                                                     <div class="gen-movie-action">
-                                                        <a href="tv-shows-home" class="gen-button">
+                                                        <a href="single-episode" class="gen-button">
                                                             <i class="fa fa-play"></i>
                                                         </a>
                                                     </div>
@@ -224,7 +224,7 @@
                                                 <div class="gen-episode-img">
                                                     <img src="images/background/asset-15.jpeg" alt="stream-lab-image">
                                                     <div class="gen-movie-action">
-                                                        <a href="tv-shows-home" class="gen-button">
+                                                        <a href="single-episode" class="gen-button">
                                                             <i class="fa fa-play"></i>
                                                         </a>
                                                     </div>
@@ -261,7 +261,7 @@
                                                 <div class="gen-episode-img">
                                                     <img src="images/background/asset-15.jpeg" alt="stream-lab-image">
                                                     <div class="gen-movie-action">
-                                                        <a href="tv-shows-home" class="gen-button">
+                                                        <a href="single-episode" class="gen-button">
                                                             <i class="fa fa-play"></i>
                                                         </a>
                                                     </div>
@@ -291,7 +291,7 @@
                                                 <div class="gen-episode-img">
                                                     <img src="images/background/asset-15.jpeg" alt="stream-lab-image">
                                                     <div class="gen-movie-action">
-                                                        <a href="tv-shows-home" class="gen-button">
+                                                        <a href="single-episode" class="gen-button">
                                                             <i class="fa fa-play"></i>
                                                         </a>
                                                     </div>
@@ -321,7 +321,7 @@
                                                 <div class="gen-episode-img">
                                                     <img src="images/background/asset-15.jpeg" alt="stream-lab-image">
                                                     <div class="gen-movie-action">
-                                                        <a href="tv-shows-home" class="gen-button">
+                                                        <a href="single-episode" class="gen-button">
                                                             <i class="fa fa-play"></i>
                                                         </a>
                                                     </div>
@@ -351,7 +351,7 @@
                                                 <div class="gen-episode-img">
                                                     <img src="images/background/asset-15.jpeg" alt="stream-lab-image">
                                                     <div class="gen-movie-action">
-                                                        <a href="tv-shows-home" class="gen-button">
+                                                        <a href="single-episode" class="gen-button">
                                                             <i class="fa fa-play"></i>
                                                         </a>
                                                     </div>
@@ -381,7 +381,7 @@
                                                 <div class="gen-episode-img">
                                                     <img src="images/background/asset-15.jpeg" alt="stream-lab-image">
                                                     <div class="gen-movie-action">
-                                                        <a href="tv-shows-home" class="gen-button">
+                                                        <a href="single-episode" class="gen-button">
                                                             <i class="fa fa-play"></i>
                                                         </a>
                                                     </div>
