@@ -65,7 +65,7 @@
                                                             2018
                                                         </li>
                                                         <li>
-                                                            <a href="action.html"><span>Action</span></a>
+                                                            <a href="action.php"><span>Action</span></a>
                                                         </li>
                                                     </ul>
                                                     <p>Streamlab is a long established fact that a reader will be
@@ -76,7 +76,7 @@
                                                 </div>
                                                 <div class="gen-movie-action">
                                                     <div class="gen-btn-container button-1">
-                                                        <a href="single-movie.html" class="gen-button">
+                                                        <a href="single-movie.php" class="gen-button">
                                                             <span class="text">Play Now</span>
                                                         </a>
                                                     </div>
@@ -117,7 +117,7 @@
                                                             2017
                                                         </li>
                                                         <li>
-                                                            <a href="action.html"><span>Action</span></a>
+                                                            <a href="action.php"><span>Action</span></a>
                                                         </li>
                                                     </ul>
                                                     <p>Streamlab is a long established fact that a reader will be
@@ -128,7 +128,7 @@
                                                 </div>
                                                 <div class="gen-movie-action">
                                                     <div class="gen-btn-container button-1">
-                                                        <a href="single-movie.html" class="gen-button">
+                                                        <a href="single-movie.php" class="gen-button">
                                                             <span class="text">Play Now</span>
                                                         </a>
                                                     </div>
@@ -169,7 +169,7 @@
                                                             2018
                                                         </li>
                                                         <li>
-                                                            <a href="action.html"><span>Action</span></a>
+                                                            <a href="action.php"><span>Action</span></a>
                                                         </li>
                                                     </ul>
                                                     <p>Streamlab is a long established fact that a reader will be
@@ -178,7 +178,7 @@
                                                 </div>
                                                 <div class="gen-movie-action">
                                                     <div class="gen-btn-container button-1">
-                                                        <a href="single-movie.html" class="gen-button">
+                                                        <a href="single-movie.php" class="gen-button">
                                                             <span class="text">Play Now</span>
                                                         </a>
                                                     </div>
@@ -213,7 +213,7 @@
                 <div class="col-xl-6 col-lg-6 col-md-6 d-none d-md-inline-block">
                     <div class="gen-movie-action">
                         <div class="gen-btn-container text-right">
-                            <a href="tv-shows-pagination.html" class="gen-button gen-button-flat">
+                            <a href="tv-shows-pagination.php" class="gen-button gen-button-flat">
                                 <span class="text">More Videos</span>
                             </a>
                         </div>
@@ -262,7 +262,7 @@
                                                         <div class="dropdown-menu mCustomScrollbar">
                                                             <div class="mCustomScrollBox">
                                                                 <div class="mCSB_container">
-                                                                    <a class="login-link" href="register.html">Sign in
+                                                                    <a class="login-link" href="register.php">Sign in
                                                                         to add this
                                                                         movie to a
                                                                         playlist.</a>
@@ -272,21 +272,21 @@
                                                     </div>
                                                 </div>
                                                 <div class="gen-movie-action">
-                                                    <a href="single-movie.html" class="gen-button">
+                                                    <a href="single-movie.php" class="gen-button">
                                                         <i class="fa fa-play"></i>
                                                     </a>
                                                 </div>
                                             </div>
                                             <div class="gen-info-contain">
                                                 <div class="gen-movie-info">
-                                                    <h3><a href="single-movie.html">My Generation</a>
+                                                    <h3><a href="single-movie.php">My Generation</a>
                                                     </h3>
                                                 </div>
                                                 <div class="gen-movie-meta-holder">
                                                     <ul>
                                                         <li>1hr 24 mins</li>
                                                         <li>
-                                                            <a href="action.html"><span>Action</span></a>
+                                                            <a href="action.php"><span>Action</span></a>
                                                         </li>
                                                     </ul>
                                                 </div>
@@ -333,7 +333,7 @@
                                                         <div class="dropdown-menu mCustomScrollbar">
                                                             <div class="mCustomScrollBox">
                                                                 <div class="mCSB_container">
-                                                                    <a class="login-link" href="register.html">Sign in
+                                                                    <a class="login-link" href="register.php">Sign in
                                                                         to add this
                                                                         movie to a
                                                                         playlist.</a>
@@ -343,21 +343,21 @@
                                                     </div>
                                                 </div>
                                                 <div class="gen-movie-action">
-                                                    <a href="single-movie.html" class="gen-button">
+                                                    <a href="single-movie.php" class="gen-button">
                                                         <i class="fa fa-play"></i>
                                                     </a>
                                                 </div>
                                             </div>
                                             <div class="gen-info-contain">
                                                 <div class="gen-movie-info">
-                                                    <h3><a href="single-movie.html">Love, Simon</a>
+                                                    <h3><a href="single-movie.php">Love, Simon</a>
                                                     </h3>
                                                 </div>
                                                 <div class="gen-movie-meta-holder">
                                                     <ul>
                                                         <li>1hr 50 mins</li>
                                                         <li>
-                                                            <a href="action.html"><span>Action</span></a>
+                                                            <a href="action.php"><span>Action</span></a>
                                                         </li>
                                                     </ul>
                                                 </div>
@@ -405,7 +405,7 @@
                                                         <div class="dropdown-menu mCustomScrollbar">
                                                             <div class="mCustomScrollBox">
                                                                 <div class="mCSB_container">
-                                                                    <a class="login-link" href="register.html">Sign in
+                                                                    <a class="login-link" href="register.php">Sign in
                                                                         to add this
                                                                         movie to a
                                                                         playlist.</a>
@@ -415,21 +415,21 @@
                                                     </div>
                                                 </div>
                                                 <div class="gen-movie-action">
-                                                    <a href="single-movie.html" class="gen-button">
+                                                    <a href="single-movie.php" class="gen-button">
                                                         <i class="fa fa-play"></i>
                                                     </a>
                                                 </div>
                                             </div>
                                             <div class="gen-info-contain">
                                                 <div class="gen-movie-info">
-                                                    <h3><a href="single-movie.html">Have a Nice Day</a>
+                                                    <h3><a href="single-movie.php">Have a Nice Day</a>
                                                     </h3>
                                                 </div>
                                                 <div class="gen-movie-meta-holder">
                                                     <ul>
                                                         <li>1hr 17 mins</li>
                                                         <li>
-                                                            <a href="action.html"><span>Action</span></a>
+                                                            <a href="action.php"><span>Action</span></a>
                                                         </li>
                                                     </ul>
                                                 </div>
@@ -477,7 +477,7 @@
                                                         <div class="dropdown-menu mCustomScrollbar">
                                                             <div class="mCustomScrollBox">
                                                                 <div class="mCSB_container">
-                                                                    <a class="login-link" href="register.html">Sign in
+                                                                    <a class="login-link" href="register.php">Sign in
                                                                         to add this
                                                                         movie to a
                                                                         playlist.</a>
@@ -487,21 +487,21 @@
                                                     </div>
                                                 </div>
                                                 <div class="gen-movie-action">
-                                                    <a href="single-movie.html" class="gen-button">
+                                                    <a href="single-movie.php" class="gen-button">
                                                         <i class="fa fa-play"></i>
                                                     </a>
                                                 </div>
                                             </div>
                                             <div class="gen-info-contain">
                                                 <div class="gen-movie-info">
-                                                    <h3><a href="single-movie.html">Don Of Thieves</a>
+                                                    <h3><a href="single-movie.php">Don Of Thieves</a>
                                                     </h3>
                                                 </div>
                                                 <div class="gen-movie-meta-holder">
                                                     <ul>
                                                         <li>2hr 20 mins</li>
                                                         <li>
-                                                            <a href="action.html"><span>Action</span></a>
+                                                            <a href="action.php"><span>Action</span></a>
                                                         </li>
                                                     </ul>
                                                 </div>
@@ -549,7 +549,7 @@
                                                         <div class="dropdown-menu mCustomScrollbar">
                                                             <div class="mCustomScrollBox">
                                                                 <div class="mCSB_container">
-                                                                    <a class="login-link" href="register.html">Sign in
+                                                                    <a class="login-link" href="register.php">Sign in
                                                                         to add this
                                                                         movie to a
                                                                         playlist.</a>
@@ -559,21 +559,21 @@
                                                     </div>
                                                 </div>
                                                 <div class="gen-movie-action">
-                                                    <a href="single-movie.html" class="gen-button">
+                                                    <a href="single-movie.php" class="gen-button">
                                                         <i class="fa fa-play"></i>
                                                     </a>
                                                 </div>
                                             </div>
                                             <div class="gen-info-contain">
                                                 <div class="gen-movie-info">
-                                                    <h3><a href="single-movie.html">Fight For Life</a>
+                                                    <h3><a href="single-movie.php">Fight For Life</a>
                                                     </h3>
                                                 </div>
                                                 <div class="gen-movie-meta-holder">
                                                     <ul>
                                                         <li>2hr 25 mins</li>
                                                         <li>
-                                                            <a href="action.html"><span>Action</span></a>
+                                                            <a href="action.php"><span>Action</span></a>
                                                         </li>
                                                     </ul>
                                                 </div>
@@ -601,7 +601,7 @@
                 <div class="col-xl-6 col-lg-6 col-md-6 d-none d-md-inline-block">
                     <div class="gen-movie-action">
                         <div class="gen-btn-container text-right">
-                            <a href="tv-shows-pagination.html" class="gen-button gen-button-flat">
+                            <a href="tv-shows-pagination.php" class="gen-button gen-button-flat">
                                 <span class="text">More Videos</span>
                             </a>
                         </div>
@@ -650,7 +650,7 @@
                                                         <div class="dropdown-menu mCustomScrollbar">
                                                             <div class="mCustomScrollBox">
                                                                 <div class="mCSB_container">
-                                                                    <a class="login-link" href="register.html">Sign in
+                                                                    <a class="login-link" href="register.php">Sign in
                                                                         to add this
                                                                         movie to a
                                                                         playlist.</a>
@@ -660,14 +660,14 @@
                                                     </div>
                                                 </div>
                                                 <div class="gen-movie-action">
-                                                    <a href="single-movie.html" class="gen-button">
+                                                    <a href="single-movie.php" class="gen-button">
                                                         <i class="fa fa-play"></i>
                                                     </a>
                                                 </div>
                                             </div>
                                             <div class="gen-info-contain">
                                                 <div class="gen-movie-info">
-                                                    <h3><a href="single-movie.html">The
+                                                    <h3><a href="single-movie.php">The
                                                             warrior life</a>
                                                     </h3>
                                                 </div>
@@ -675,7 +675,7 @@
                                                     <ul>
                                                         <li>2hr 00mins</li>
                                                         <li>
-                                                            <a href="action.html"><span>Action</span></a>
+                                                            <a href="action.php"><span>Action</span></a>
                                                         </li>
                                                     </ul>
                                                 </div>
@@ -722,7 +722,7 @@
                                                         <div class="dropdown-menu mCustomScrollbar">
                                                             <div class="mCustomScrollBox">
                                                                 <div class="mCSB_container">
-                                                                    <a class="login-link" href="register.html">Sign in
+                                                                    <a class="login-link" href="register.php">Sign in
                                                                         to add this
                                                                         movie to a
                                                                         playlist.</a>
@@ -732,14 +732,14 @@
                                                     </div>
                                                 </div>
                                                 <div class="gen-movie-action">
-                                                    <a href="single-movie.html" class="gen-button">
+                                                    <a href="single-movie.php" class="gen-button">
                                                         <i class="fa fa-play"></i>
                                                     </a>
                                                 </div>
                                             </div>
                                             <div class="gen-info-contain">
                                                 <div class="gen-movie-info">
-                                                    <h3><a href="single-movie.html">machine
+                                                    <h3><a href="single-movie.php">machine
                                                             war</a>
                                                     </h3>
                                                 </div>
@@ -747,7 +747,7 @@
                                                     <ul>
                                                         <li>1h 22mins</li>
                                                         <li>
-                                                            <a href="action.html"><span>Action</span></a>
+                                                            <a href="action.php"><span>Action</span></a>
                                                         </li>
                                                     </ul>
                                                 </div>
@@ -795,7 +795,7 @@
                                                         <div class="dropdown-menu mCustomScrollbar">
                                                             <div class="mCustomScrollBox">
                                                                 <div class="mCSB_container">
-                                                                    <a class="login-link" href="register.html">Sign in
+                                                                    <a class="login-link" href="register.php">Sign in
                                                                         to add this
                                                                         movie to a
                                                                         playlist.</a>
@@ -805,14 +805,14 @@
                                                     </div>
                                                 </div>
                                                 <div class="gen-movie-action">
-                                                    <a href="single-movie.html" class="gen-button">
+                                                    <a href="single-movie.php" class="gen-button">
                                                         <i class="fa fa-play"></i>
                                                     </a>
                                                 </div>
                                             </div>
                                             <div class="gen-info-contain">
                                                 <div class="gen-movie-info">
-                                                    <h3><a href="single-movie.html">the
+                                                    <h3><a href="single-movie.php">the
                                                             horse lady</a>
                                                     </h3>
                                                 </div>
@@ -820,7 +820,7 @@
                                                     <ul>
                                                         <li>1hr 24 mins</li>
                                                         <li>
-                                                            <a href="drama.html"><span>Drama</span></a>
+                                                            <a href="drama.php"><span>Drama</span></a>
                                                         </li>
                                                     </ul>
                                                 </div>
@@ -868,7 +868,7 @@
                                                         <div class="dropdown-menu mCustomScrollbar">
                                                             <div class="mCustomScrollBox">
                                                                 <div class="mCSB_container">
-                                                                    <a class="login-link" href="register.html">Sign in
+                                                                    <a class="login-link" href="register.php">Sign in
                                                                         to add this
                                                                         movie to a
                                                                         playlist.</a>
@@ -878,14 +878,14 @@
                                                     </div>
                                                 </div>
                                                 <div class="gen-movie-action">
-                                                    <a href="single-movie.html" class="gen-button">
+                                                    <a href="single-movie.php" class="gen-button">
                                                         <i class="fa fa-play"></i>
                                                     </a>
                                                 </div>
                                             </div>
                                             <div class="gen-info-contain">
                                                 <div class="gen-movie-info">
-                                                    <h3><a href="single-movie.html">Ship
+                                                    <h3><a href="single-movie.php">Ship
                                                             of full moon</a>
                                                     </h3>
                                                 </div>
@@ -893,7 +893,7 @@
                                                     <ul>
                                                         <li>1hr 35mins</li>
                                                         <li>
-                                                            <a href="action.html"><span>Action</span></a>
+                                                            <a href="action.php"><span>Action</span></a>
                                                         </li>
                                                     </ul>
                                                 </div>
@@ -941,7 +941,7 @@
                                                         <div class="dropdown-menu mCustomScrollbar">
                                                             <div class="mCustomScrollBox">
                                                                 <div class="mCSB_container">
-                                                                    <a class="login-link" href="register.html">Sign in
+                                                                    <a class="login-link" href="register.php">Sign in
                                                                         to add this
                                                                         movie to a
                                                                         playlist.</a>
@@ -951,14 +951,14 @@
                                                     </div>
                                                 </div>
                                                 <div class="gen-movie-action">
-                                                    <a href="single-movie.html" class="gen-button">
+                                                    <a href="single-movie.php" class="gen-button">
                                                         <i class="fa fa-play"></i>
                                                     </a>
                                                 </div>
                                             </div>
                                             <div class="gen-info-contain">
                                                 <div class="gen-movie-info">
-                                                    <h3><a href="single-movie.html">Rebuneka
+                                                    <h3><a href="single-movie.php">Rebuneka
                                                             the doll</a>
                                                     </h3>
                                                 </div>
@@ -966,7 +966,7 @@
                                                     <ul>
                                                         <li>1hr 44 mins</li>
                                                         <li>
-                                                            <a href="action.html"><span>Action</span></a>
+                                                            <a href="action.php"><span>Action</span></a>
                                                         </li>
                                                     </ul>
                                                 </div>
@@ -1014,7 +1014,7 @@
                                                         <div class="dropdown-menu mCustomScrollbar">
                                                             <div class="mCustomScrollBox">
                                                                 <div class="mCSB_container">
-                                                                    <a class="login-link" href="register.html">Sign in
+                                                                    <a class="login-link" href="register.php">Sign in
                                                                         to add this
                                                                         movie to a
                                                                         playlist.</a>
@@ -1024,14 +1024,14 @@
                                                     </div>
                                                 </div>
                                                 <div class="gen-movie-action">
-                                                    <a href="single-movie.html" class="gen-button">
+                                                    <a href="single-movie.php" class="gen-button">
                                                         <i class="fa fa-play"></i>
                                                     </a>
                                                 </div>
                                             </div>
                                             <div class="gen-info-contain">
                                                 <div class="gen-movie-info">
-                                                    <h3><a href="single-movie.html">thieve
+                                                    <h3><a href="single-movie.php">thieve
                                                             the bank</a>
                                                     </h3>
                                                 </div>
@@ -1039,7 +1039,7 @@
                                                     <ul>
                                                         <li>30min</li>
                                                         <li>
-                                                            <a href="action.html"><span>Action</span></a>
+                                                            <a href="action.php"><span>Action</span></a>
                                                         </li>
                                                     </ul>
                                                 </div>
@@ -1087,7 +1087,7 @@
                                                         <div class="dropdown-menu mCustomScrollbar">
                                                             <div class="mCustomScrollBox">
                                                                 <div class="mCSB_container">
-                                                                    <a class="login-link" href="register.html">Sign in
+                                                                    <a class="login-link" href="register.php">Sign in
                                                                         to add this
                                                                         movie to a
                                                                         playlist.</a>
@@ -1097,20 +1097,20 @@
                                                     </div>
                                                 </div>
                                                 <div class="gen-movie-action">
-                                                    <a href="single-movie.html" class="gen-button">
+                                                    <a href="single-movie.php" class="gen-button">
                                                         <i class="fa fa-play"></i>
                                                     </a>
                                                 </div>
                                             </div>
                                             <div class="gen-info-contain">
                                                 <div class="gen-movie-info">
-                                                    <h3><a href="single-movie.html">Ship of full moon</a></h3>
+                                                    <h3><a href="single-movie.php">Ship of full moon</a></h3>
                                                 </div>
                                                 <div class="gen-movie-meta-holder">
                                                     <ul>
                                                         <li>1hr 35mins</li>
                                                         <li>
-                                                            <a href="action.html"><span>Action</span></a>
+                                                            <a href="action.php"><span>Action</span></a>
                                                         </li>
                                                     </ul>
                                                 </div>
@@ -1158,7 +1158,7 @@
                                                         <div class="dropdown-menu mCustomScrollbar">
                                                             <div class="mCustomScrollBox">
                                                                 <div class="mCSB_container">
-                                                                    <a class="login-link" href="register.html">Sign in
+                                                                    <a class="login-link" href="register.php">Sign in
                                                                         to add this
                                                                         movie to a
                                                                         playlist.</a>
@@ -1168,14 +1168,14 @@
                                                     </div>
                                                 </div>
                                                 <div class="gen-movie-action">
-                                                    <a href="single-movie.html" class="gen-button">
+                                                    <a href="single-movie.php" class="gen-button">
                                                         <i class="fa fa-play"></i>
                                                     </a>
                                                 </div>
                                             </div>
                                             <div class="gen-info-contain">
                                                 <div class="gen-movie-info">
-                                                    <h3><a href="single-movie.html">the
+                                                    <h3><a href="single-movie.php">the
                                                             giant ship</a>
                                                     </h3>
                                                 </div>
@@ -1183,7 +1183,7 @@
                                                     <ul>
                                                         <li>1h 02 mins</li>
                                                         <li>
-                                                            <a href="action.html"><span>Action</span></a>
+                                                            <a href="action.php"><span>Action</span></a>
                                                         </li>
                                                     </ul>
                                                 </div>
@@ -1231,7 +1231,7 @@
                                                         <div class="dropdown-menu mCustomScrollbar">
                                                             <div class="mCustomScrollBox">
                                                                 <div class="mCSB_container">
-                                                                    <a class="login-link" href="register.html">Sign in
+                                                                    <a class="login-link" href="register.php">Sign in
                                                                         to add this
                                                                         movie to a
                                                                         playlist.</a>
@@ -1241,14 +1241,14 @@
                                                     </div>
                                                 </div>
                                                 <div class="gen-movie-action">
-                                                    <a href="single-movie.html" class="gen-button">
+                                                    <a href="single-movie.php" class="gen-button">
                                                         <i class="fa fa-play"></i>
                                                     </a>
                                                 </div>
                                             </div>
                                             <div class="gen-info-contain">
                                                 <div class="gen-movie-info">
-                                                    <h3><a href="single-movie.html">common
+                                                    <h3><a href="single-movie.php">common
                                                             man’s idea</a>
                                                     </h3>
                                                 </div>
@@ -1256,7 +1256,7 @@
                                                     <ul>
                                                         <li>1hr 51 mins</li>
                                                         <li>
-                                                            <a href="action.html"><span>Action</span></a>
+                                                            <a href="action.php"><span>Action</span></a>
                                                         </li>
                                                     </ul>
                                                 </div>
@@ -1304,7 +1304,7 @@
                                                         <div class="dropdown-menu mCustomScrollbar">
                                                             <div class="mCustomScrollBox">
                                                                 <div class="mCSB_container">
-                                                                    <a class="login-link" href="register.html">Sign in
+                                                                    <a class="login-link" href="register.php">Sign in
                                                                         to add this
                                                                         movie to a
                                                                         playlist.</a>
@@ -1314,14 +1314,14 @@
                                                     </div>
                                                 </div>
                                                 <div class="gen-movie-action">
-                                                    <a href="single-movie.html" class="gen-button">
+                                                    <a href="single-movie.php" class="gen-button">
                                                         <i class="fa fa-play"></i>
                                                     </a>
                                                 </div>
                                             </div>
                                             <div class="gen-info-contain">
                                                 <div class="gen-movie-info">
-                                                    <h3><a href="single-movie.html">the
+                                                    <h3><a href="single-movie.php">the
                                                             jin’s friend</a>
                                                     </h3>
                                                 </div>
@@ -1329,7 +1329,7 @@
                                                     <ul>
                                                         <li>1hr 42 mins</li>
                                                         <li>
-                                                            <a href="action.html"><span>Action</span></a>
+                                                            <a href="action.php"><span>Action</span></a>
                                                         </li>
                                                     </ul>
                                                 </div>
@@ -1380,7 +1380,7 @@
                                                             2020
                                                         </li>
                                                         <li>
-                                                            <a href="action.html"><span>Action</span></a>
+                                                            <a href="action.php"><span>Action</span></a>
                                                         </li>
                                                     </ul>
                                                     <p>Streamlab is a long established fact that a reader will be
@@ -1389,7 +1389,7 @@
                                                 </div>
                                                 <div class="gen-movie-action">
                                                     <div class="gen-btn-container button-1">
-                                                        <a href="single-movie.html" class="gen-button">
+                                                        <a href="single-movie.php" class="gen-button">
                                                             <i aria-hidden="true" class="ion ion-play"></i> <span
                                                                 class="text">Play now</span>
                                                         </a>
@@ -1430,7 +1430,7 @@
                                                             2017
                                                         </li>
                                                         <li>
-                                                            <a href="action.html"><span>Action</span></a>
+                                                            <a href="action.php"><span>Action</span></a>
                                                         </li>
                                                     </ul>
                                                     <p>Streamlab is a long established fact that a reader will be
@@ -1441,7 +1441,7 @@
                                                 </div>
                                                 <div class="gen-movie-action">
                                                     <div class="gen-btn-container button-1">
-                                                        <a href="single-movie.html" class="gen-button">
+                                                        <a href="single-movie.php" class="gen-button">
                                                             <i aria-hidden="true" class="ion ion-play"></i> <span
                                                                 class="text">Play now</span>
                                                         </a>
@@ -1482,7 +1482,7 @@
                                                             2016
                                                         </li>
                                                         <li>
-                                                            <a href="drama.html"><span>Drama</span></a>
+                                                            <a href="drama.php"><span>Drama</span></a>
                                                         </li>
                                                     </ul>
                                                     <p>Streamlab is a long established fact that a reader will be
@@ -1493,7 +1493,7 @@
                                                 </div>
                                                 <div class="gen-movie-action">
                                                     <div class="gen-btn-container button-1">
-                                                        <a href="single-movie.html" class="gen-button">
+                                                        <a href="single-movie.php" class="gen-button">
                                                             <i aria-hidden="true" class="ion ion-play"></i> <span
                                                                 class="text">Play now</span>
                                                         </a>
@@ -1534,7 +1534,7 @@
                                                             2018
                                                         </li>
                                                         <li>
-                                                            <a href="action.html"><span>Action</span></a>
+                                                            <a href="action.php"><span>Action</span></a>
                                                         </li>
                                                     </ul>
                                                     <p>Streamlab is a long established fact that a reader will be
@@ -1545,7 +1545,7 @@
                                                 </div>
                                                 <div class="gen-movie-action">
                                                     <div class="gen-btn-container button-1">
-                                                        <a href="single-movie.html" class="gen-button">
+                                                        <a href="single-movie.php" class="gen-button">
                                                             <i aria-hidden="true" class="ion ion-play"></i> <span
                                                                 class="text">Play now</span>
                                                         </a>
@@ -1586,7 +1586,7 @@
                                                             2018
                                                         </li>
                                                         <li>
-                                                            <a href="drama.html"><span>Drama</span></a>
+                                                            <a href="drama.php"><span>Drama</span></a>
                                                         </li>
                                                     </ul>
                                                     <p>Streamlab is a long established fact that a reader will be
@@ -1597,7 +1597,7 @@
                                                 </div>
                                                 <div class="gen-movie-action">
                                                     <div class="gen-btn-container button-1">
-                                                        <a href="single-movie.html" class="gen-button">
+                                                        <a href="single-movie.php" class="gen-button">
                                                             <i aria-hidden="true" class="ion ion-play"></i> <span
                                                                 class="text">Play now</span>
                                                         </a>
@@ -1638,7 +1638,7 @@
                                                             2018
                                                         </li>
                                                         <li>
-                                                            <a href="action.html"><span>Action</span></a>
+                                                            <a href="action.php"><span>Action</span></a>
                                                         </li>
                                                     </ul>
                                                     <p>Streamlab is a long established fact that a reader will be
@@ -1647,7 +1647,7 @@
                                                 </div>
                                                 <div class="gen-movie-action">
                                                     <div class="gen-btn-container button-1">
-                                                        <a href="single-movie.html" class="gen-button">
+                                                        <a href="single-movie.php" class="gen-button">
                                                             <i aria-hidden="true" class="ion ion-play"></i> <span
                                                                 class="text">Play now</span>
                                                         </a>
@@ -1688,7 +1688,7 @@
                                                             2016
                                                         </li>
                                                         <li>
-                                                            <a href="action.html"><span>Action</span></a>
+                                                            <a href="action.php"><span>Action</span></a>
                                                         </li>
                                                     </ul>
                                                     <p>Streamlab is a long established fact that a reader will be
@@ -1699,7 +1699,7 @@
                                                 </div>
                                                 <div class="gen-movie-action">
                                                     <div class="gen-btn-container button-1">
-                                                        <a href="single-movie.html" class="gen-button">
+                                                        <a href="single-movie.php" class="gen-button">
                                                             <i aria-hidden="true" class="ion ion-play"></i> <span
                                                                 class="text">Play now</span>
                                                         </a>
@@ -1740,7 +1740,7 @@
                                                             2017
                                                         </li>
                                                         <li>
-                                                            <a href="action.html"><span>Action</span></a>
+                                                            <a href="action.php"><span>Action</span></a>
                                                         </li>
                                                     </ul>
                                                     <p>Streamlab is a long established fact that a reader will be
@@ -1751,7 +1751,7 @@
                                                 </div>
                                                 <div class="gen-movie-action">
                                                     <div class="gen-btn-container button-1">
-                                                        <a href="single-movie.html" class="gen-button">
+                                                        <a href="single-movie.php" class="gen-button">
                                                             <i aria-hidden="true" class="ion ion-play"></i> <span
                                                                 class="text">Play now</span>
                                                         </a>
@@ -1792,7 +1792,7 @@
                                                             2018
                                                         </li>
                                                         <li>
-                                                            <a href="action.html"><span>Action</span></a>
+                                                            <a href="action.php"><span>Action</span></a>
                                                         </li>
                                                     </ul>
                                                     <p>Streamlab is a long established fact that a reader will be
@@ -1803,7 +1803,7 @@
                                                 </div>
                                                 <div class="gen-movie-action">
                                                     <div class="gen-btn-container button-1">
-                                                        <a href="single-movie.html" class="gen-button">
+                                                        <a href="single-movie.php" class="gen-button">
                                                             <i aria-hidden="true" class="ion ion-play"></i> <span
                                                                 class="text">Play now</span>
                                                         </a>
@@ -1844,7 +1844,7 @@
                                                             2018
                                                         </li>
                                                         <li>
-                                                            <a href="action.html"><span>Action</span></a>
+                                                            <a href="action.php"><span>Action</span></a>
                                                         </li>
                                                     </ul>
                                                     <p>Streamlab is a long established fact that a reader will be
@@ -1855,7 +1855,7 @@
                                                 </div>
                                                 <div class="gen-movie-action">
                                                     <div class="gen-btn-container button-1">
-                                                        <a href="single-movie.html" class="gen-button">
+                                                        <a href="single-movie.php" class="gen-button">
                                                             <i aria-hidden="true" class="ion ion-play"></i> <span
                                                                 class="text">Play now</span>
                                                         </a>
@@ -1890,7 +1890,7 @@
                 <div class="col-xl-6 col-lg-6 col-md-6 d-none d-md-inline-block">
                     <div class="gen-movie-action">
                         <div class="gen-btn-container text-right">
-                            <a href="tv-shows-pagination.html" class="gen-button gen-button-flat">
+                            <a href="tv-shows-pagination.php" class="gen-button gen-button-flat">
                                 <span class="text">More Videos</span>
                             </a>
                         </div>
@@ -1939,7 +1939,7 @@
                                                         <div class="dropdown-menu mCustomScrollbar">
                                                             <div class="mCustomScrollBox">
                                                                 <div class="mCSB_container">
-                                                                    <a class="login-link" href="register.html">Sign in
+                                                                    <a class="login-link" href="register.php">Sign in
                                                                         to add this
                                                                         movie to a
                                                                         playlist.</a>
@@ -1949,21 +1949,21 @@
                                                     </div>
                                                 </div>
                                                 <div class="gen-movie-action">
-                                                    <a href="single-movie.html" class="gen-button">
+                                                    <a href="single-movie.php" class="gen-button">
                                                         <i class="fa fa-play"></i>
                                                     </a>
                                                 </div>
                                             </div>
                                             <div class="gen-info-contain">
                                                 <div class="gen-movie-info">
-                                                    <h3><a href="single-movie.html">skull of myths</a>
+                                                    <h3><a href="single-movie.php">skull of myths</a>
                                                     </h3>
                                                 </div>
                                                 <div class="gen-movie-meta-holder">
                                                     <ul>
                                                         <li>1hr 24mins</li>
                                                         <li>
-                                                            <a href="action.html"><span>Action</span></a>
+                                                            <a href="action.php"><span>Action</span></a>
                                                         </li>
                                                     </ul>
                                                 </div>
@@ -2010,7 +2010,7 @@
                                                         <div class="dropdown-menu mCustomScrollbar">
                                                             <div class="mCustomScrollBox">
                                                                 <div class="mCSB_container">
-                                                                    <a class="login-link" href="register.html">Sign in
+                                                                    <a class="login-link" href="register.php">Sign in
                                                                         to add this
                                                                         movie to a
                                                                         playlist.</a>
@@ -2020,21 +2020,21 @@
                                                     </div>
                                                 </div>
                                                 <div class="gen-movie-action">
-                                                    <a href="single-movie.html" class="gen-button">
+                                                    <a href="single-movie.php" class="gen-button">
                                                         <i class="fa fa-play"></i>
                                                     </a>
                                                 </div>
                                             </div>
                                             <div class="gen-info-contain">
                                                 <div class="gen-movie-info">
-                                                    <h3><a href="single-movie.html">common man’s idea</a>
+                                                    <h3><a href="single-movie.php">common man’s idea</a>
                                                     </h3>
                                                 </div>
                                                 <div class="gen-movie-meta-holder">
                                                     <ul>
                                                         <li>1h 51mins</li>
                                                         <li>
-                                                            <a href="action.html"><span>Action</span></a>
+                                                            <a href="action.php"><span>Action</span></a>
                                                         </li>
                                                     </ul>
                                                 </div>
@@ -2082,7 +2082,7 @@
                                                         <div class="dropdown-menu mCustomScrollbar">
                                                             <div class="mCustomScrollBox">
                                                                 <div class="mCSB_container">
-                                                                    <a class="login-link" href="register.html">Sign in
+                                                                    <a class="login-link" href="register.php">Sign in
                                                                         to add this
                                                                         movie to a
                                                                         playlist.</a>
@@ -2092,21 +2092,21 @@
                                                     </div>
                                                 </div>
                                                 <div class="gen-movie-action">
-                                                    <a href="single-movie.html" class="gen-button">
+                                                    <a href="single-movie.php" class="gen-button">
                                                         <i class="fa fa-play"></i>
                                                     </a>
                                                 </div>
                                             </div>
                                             <div class="gen-info-contain">
                                                 <div class="gen-movie-info">
-                                                    <h3><a href="single-movie.html">shimu the elephant</a>
+                                                    <h3><a href="single-movie.php">shimu the elephant</a>
                                                     </h3>
                                                 </div>
                                                 <div class="gen-movie-meta-holder">
                                                     <ul>
                                                         <li>1hr 54mins</li>
                                                         <li>
-                                                            <a href="action.html"><span>Action</span></a>
+                                                            <a href="action.php"><span>Action</span></a>
                                                         </li>
                                                     </ul>
                                                 </div>
@@ -2154,7 +2154,7 @@
                                                         <div class="dropdown-menu mCustomScrollbar">
                                                             <div class="mCustomScrollBox">
                                                                 <div class="mCSB_container">
-                                                                    <a class="login-link" href="register.html">Sign in
+                                                                    <a class="login-link" href="register.php">Sign in
                                                                         to add this
                                                                         movie to a
                                                                         playlist.</a>
@@ -2164,21 +2164,21 @@
                                                     </div>
                                                 </div>
                                                 <div class="gen-movie-action">
-                                                    <a href="single-movie.html" class="gen-button">
+                                                    <a href="single-movie.php" class="gen-button">
                                                         <i class="fa fa-play"></i>
                                                     </a>
                                                 </div>
                                             </div>
                                             <div class="gen-info-contain">
                                                 <div class="gen-movie-info">
-                                                    <h3><a href="single-movie.html">War of Rejonse</a>
+                                                    <h3><a href="single-movie.php">War of Rejonse</a>
                                                     </h3>
                                                 </div>
                                                 <div class="gen-movie-meta-holder">
                                                     <ul>
                                                         <li>2hr 20mins</li>
                                                         <li>
-                                                            <a href="action.html"><span>Action</span></a>
+                                                            <a href="action.php"><span>Action</span></a>
                                                         </li>
                                                     </ul>
                                                 </div>
@@ -2226,7 +2226,7 @@
                                                         <div class="dropdown-menu mCustomScrollbar">
                                                             <div class="mCustomScrollBox">
                                                                 <div class="mCSB_container">
-                                                                    <a class="login-link" href="register.html">Sign in
+                                                                    <a class="login-link" href="register.php">Sign in
                                                                         to add this
                                                                         movie to a
                                                                         playlist.</a>
@@ -2236,21 +2236,21 @@
                                                     </div>
                                                 </div>
                                                 <div class="gen-movie-action">
-                                                    <a href="single-movie.html" class="gen-button">
+                                                    <a href="single-movie.php" class="gen-button">
                                                         <i class="fa fa-play"></i>
                                                     </a>
                                                 </div>
                                             </div>
                                             <div class="gen-info-contain">
                                                 <div class="gen-movie-info">
-                                                    <h3><a href="single-movie.html">The Big Sick</a>
+                                                    <h3><a href="single-movie.php">The Big Sick</a>
                                                     </h3>
                                                 </div>
                                                 <div class="gen-movie-meta-holder">
                                                     <ul>
                                                         <li>2hr 00mins</li>
                                                         <li>
-                                                            <a href="action.html"><span>Action</span></a>
+                                                            <a href="action.php"><span>Action</span></a>
                                                         </li>
                                                     </ul>
                                                 </div>
@@ -2298,7 +2298,7 @@
                                                         <div class="dropdown-menu mCustomScrollbar">
                                                             <div class="mCustomScrollBox">
                                                                 <div class="mCSB_container">
-                                                                    <a class="login-link" href="register.html">Sign in
+                                                                    <a class="login-link" href="register.php">Sign in
                                                                         to add this
                                                                         movie to a
                                                                         playlist.</a>
@@ -2308,21 +2308,21 @@
                                                     </div>
                                                 </div>
                                                 <div class="gen-movie-action">
-                                                    <a href="single-movie.html" class="gen-button">
+                                                    <a href="single-movie.php" class="gen-button">
                                                         <i class="fa fa-play"></i>
                                                     </a>
                                                 </div>
                                             </div>
                                             <div class="gen-info-contain">
                                                 <div class="gen-movie-info">
-                                                    <h3><a href="single-movie.html">The Last Witness</a>
+                                                    <h3><a href="single-movie.php">The Last Witness</a>
                                                     </h3>
                                                 </div>
                                                 <div class="gen-movie-meta-holder">
                                                     <ul>
                                                         <li>1hr 37mins</li>
                                                         <li>
-                                                            <a href="action.html"><span>Action</span></a>
+                                                            <a href="action.php"><span>Action</span></a>
                                                         </li>
                                                     </ul>
                                                 </div>
@@ -2370,7 +2370,7 @@
                                                         <div class="dropdown-menu mCustomScrollbar">
                                                             <div class="mCustomScrollBox">
                                                                 <div class="mCSB_container">
-                                                                    <a class="login-link" href="register.html">Sign in
+                                                                    <a class="login-link" href="register.php">Sign in
                                                                         to add this
                                                                         movie to a
                                                                         playlist.</a>
@@ -2380,20 +2380,20 @@
                                                     </div>
                                                 </div>
                                                 <div class="gen-movie-action">
-                                                    <a href="single-movie.html" class="gen-button">
+                                                    <a href="single-movie.php" class="gen-button">
                                                         <i class="fa fa-play"></i>
                                                     </a>
                                                 </div>
                                             </div>
                                             <div class="gen-info-contain">
                                                 <div class="gen-movie-info">
-                                                    <h3><a href="single-movie.html">Love, Simon</a></h3>
+                                                    <h3><a href="single-movie.php">Love, Simon</a></h3>
                                                 </div>
                                                 <div class="gen-movie-meta-holder">
                                                     <ul>
                                                         <li>1hr 50mins</li>
                                                         <li>
-                                                            <a href="action.html"><span>Action</span></a>
+                                                            <a href="action.php"><span>Action</span></a>
                                                         </li>
                                                     </ul>
                                                 </div>
@@ -2441,7 +2441,7 @@
                                                         <div class="dropdown-menu mCustomScrollbar">
                                                             <div class="mCustomScrollBox">
                                                                 <div class="mCSB_container">
-                                                                    <a class="login-link" href="register.html">Sign in
+                                                                    <a class="login-link" href="register.php">Sign in
                                                                         to add this
                                                                         movie to a
                                                                         playlist.</a>
@@ -2451,21 +2451,21 @@
                                                     </div>
                                                 </div>
                                                 <div class="gen-movie-action">
-                                                    <a href="single-movie.html" class="gen-button">
+                                                    <a href="single-movie.php" class="gen-button">
                                                         <i class="fa fa-play"></i>
                                                     </a>
                                                 </div>
                                             </div>
                                             <div class="gen-info-contain">
                                                 <div class="gen-movie-info">
-                                                    <h3><a href="single-movie.html">Black Water</a>
+                                                    <h3><a href="single-movie.php">Black Water</a>
                                                     </h3>
                                                 </div>
                                                 <div class="gen-movie-meta-holder">
                                                     <ul>
                                                         <li>1hr 44mins</li>
                                                         <li>
-                                                            <a href="action.html"><span>Action</span></a>
+                                                            <a href="action.php"><span>Action</span></a>
                                                         </li>
                                                     </ul>
                                                 </div>
@@ -2513,7 +2513,7 @@
                                                         <div class="dropdown-menu mCustomScrollbar">
                                                             <div class="mCustomScrollBox">
                                                                 <div class="mCSB_container">
-                                                                    <a class="login-link" href="register.html">Sign in
+                                                                    <a class="login-link" href="register.php">Sign in
                                                                         to add this
                                                                         movie to a
                                                                         playlist.</a>
@@ -2523,21 +2523,21 @@
                                                     </div>
                                                 </div>
                                                 <div class="gen-movie-action">
-                                                    <a href="single-movie.html" class="gen-button">
+                                                    <a href="single-movie.php" class="gen-button">
                                                         <i class="fa fa-play"></i>
                                                     </a>
                                                 </div>
                                             </div>
                                             <div class="gen-info-contain">
                                                 <div class="gen-movie-info">
-                                                    <h3><a href="single-movie.html">Bad Genius</a>
+                                                    <h3><a href="single-movie.php">Bad Genius</a>
                                                     </h3>
                                                 </div>
                                                 <div class="gen-movie-meta-holder">
                                                     <ul>
                                                         <li>2hr 10mins</li>
                                                         <li>
-                                                            <a href="action.html"><span>Action</span></a>
+                                                            <a href="action.php"><span>Action</span></a>
                                                         </li>
                                                     </ul>
                                                 </div>

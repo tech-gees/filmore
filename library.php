@@ -45,7 +45,7 @@
                         </div>
                         <div class="gen-breadcrumb-container">
                             <ol class="breadcrumb">
-                                <li class="breadcrumb-item"><a href="index.html"><i
+                                <li class="breadcrumb-item"><a href="index.php"><i
                                             class="fas fa-home mr-2"></i>Home</a></li>
                                 <li class="breadcrumb-item active">Library</li>
                             </ol>
@@ -86,7 +86,7 @@
                             </div>
                         </div>
                         <div class="gen-recover-password">
-                            <a href="recover-password.html">Lost your password?</a>
+                            <a href="recover-password.php">Lost your password?</a>
                         </div>
 
                     </form>

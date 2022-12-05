@@ -45,7 +45,7 @@
                         </div>
                         <div class="gen-breadcrumb-container">
                             <ol class="breadcrumb">
-                                <li class="breadcrumb-item"><a href="index.html"><i
+                                <li class="breadcrumb-item"><a href="index.php"><i
                                             class="fas fa-home mr-2"></i>Home</a></li>
                                 <li class="breadcrumb-item active">Movie</li>
                             </ol>
@@ -100,20 +100,20 @@
                                             </div>
                                         </div>
                                         <div class="gen-movie-action">
-                                            <a href="index.html" class="gen-button">
+                                            <a href="index.php" class="gen-button">
                                                 <i class="fa fa-play"></i>
                                             </a>
                                         </div>
                                     </div>
                                     <div class="gen-info-contain">
                                         <div class="gen-movie-info">
-                                            <h3><a href="index.html">sefozie world</a></h3>
+                                            <h3><a href="index.php">sefozie world</a></h3>
                                         </div>
                                         <div class="gen-movie-meta-holder">
                                             <ul>
                                                 <li>2 weeks</li>
                                                 <li>
-                                                    <a href="index.html"><span>Animation</span></a>
+                                                    <a href="index.php"><span>Animation</span></a>
                                                 </li>
                                             </ul>
                                         </div>
@@ -158,20 +158,20 @@
                                             </div>
                                         </div>
                                         <div class="gen-movie-action">
-                                            <a href="index.html" class="gen-button">
+                                            <a href="index.php" class="gen-button">
                                                 <i class="fa fa-play"></i>
                                             </a>
                                         </div>
                                     </div>
                                     <div class="gen-info-contain">
                                         <div class="gen-movie-info">
-                                            <h3><a href="index.html">War Hands</a></h3>
+                                            <h3><a href="index.php">War Hands</a></h3>
                                         </div>
                                         <div class="gen-movie-meta-holder">
                                             <ul>
                                                 <li>2 weeks</li>
                                                 <li>
-                                                    <a href="index.html"><span>Animation</span></a>
+                                                    <a href="index.php"><span>Animation</span></a>
                                                 </li>
                                             </ul>
                                         </div>
@@ -216,20 +216,20 @@
                                             </div>
                                         </div>
                                         <div class="gen-movie-action">
-                                            <a href="index.html" class="gen-button">
+                                            <a href="index.php" class="gen-button">
                                                 <i class="fa fa-play"></i>
                                             </a>
                                         </div>
                                     </div>
                                     <div class="gen-info-contain">
                                         <div class="gen-movie-info">
-                                            <h3><a href="index.html">MGX-Fighter</a></h3>
+                                            <h3><a href="index.php">MGX-Fighter</a></h3>
                                         </div>
                                         <div class="gen-movie-meta-holder">
                                             <ul>
                                                 <li>2 weeks</li>
                                                 <li>
-                                                    <a href="index.html"><span>Animation</span></a>
+                                                    <a href="index.php"><span>Animation</span></a>
                                                 </li>
                                             </ul>
                                         </div>
@@ -274,20 +274,20 @@
                                             </div>
                                         </div>
                                         <div class="gen-movie-action">
-                                            <a href="index.html" class="gen-button">
+                                            <a href="index.php" class="gen-button">
                                                 <i class="fa fa-play"></i>
                                             </a>
                                         </div>
                                     </div>
                                     <div class="gen-info-contain">
                                         <div class="gen-movie-info">
-                                            <h3><a href="index.html">Voho The Skull Land</a></h3>
+                                            <h3><a href="index.php">Voho The Skull Land</a></h3>
                                         </div>
                                         <div class="gen-movie-meta-holder">
                                             <ul>
                                                 <li>2 weeks</li>
                                                 <li>
-                                                    <a href="index.html"><span>Animation</span></a>
+                                                    <a href="index.php"><span>Animation</span></a>
                                                 </li>
                                             </ul>
                                         </div>
