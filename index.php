@@ -361,7 +361,7 @@
                <div class="gen-movie-action">
                   <div class="gen-btn-container text-right">
                      <a href="movies-style-3" class="gen-button gen-button-flat">
-                        <span class="text">More Videos</span>
+                        <span class="text">More Movies</span>
                      </a>
                   </div>
                </div>
