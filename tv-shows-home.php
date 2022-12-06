@@ -227,7 +227,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-xl-6 col-lg-6 col-md-6">
-                    <h3 class="gen-heading-title">Trading Tv Shows</h3>
+                    <h3 class="gen-heading-title">High Rated Tv Shows</h3>
                 </div>
                 <div class="col-xl-6 col-lg-6 col-md-6 d-none d-md-inline-block">
                     <div class="gen-movie-action">
@@ -1222,9 +1222,322 @@
     </section>
     <!-- owl-carousel Videos Section-2 End -->
 
+    <!-- owl-carousel Videos Section-2 Start -->
+    <section class="pt-0 gen-section-padding-2">
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-6 col-lg-6 col-md-6">
+                    <h3 class="gen-heading-title">Most Viewed</h3>
+                </div>
+                <div class="col-xl-6 col-lg-6 col-md-6 d-none d-md-inline-block">
+                    <div class="gen-movie-action">
+                        <div class="gen-btn-container text-right">
+                            <a href="tv-shows-pagination" class="gen-button gen-button-flat">
+                                <span class="text">More Tv Shows</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row mt-3">
+                <div class="col-12">
+                    <div class="gen-style-1">
+                        <div class="owl-carousel owl-loaded owl-drag" data-dots="false" data-nav="true"
+                            data-desk_num="4" data-lap_num="3" data-tab_num="2" data-mob_num="1" data-mob_sm="1"
+                            data-autoplay="false" data-loop="false" data-margin="30">
+                            <div class="item">
+                                <div
+                                    class="tv_show type-tv_show status-publish has-post-thumbnail hentry tv_show_genre-adventure">
+                                    <div class="gen-carousel-movies-style-1 movie-grid style-1">
+                                        <div class="gen-movie-contain">
+                                            <div class="gen-movie-img">
+                                                <img src="images/background/asset-19.jpeg" alt="streamlab-image">
+                                                <div class="gen-movie-add">
+                                                    <div class="wpulike wpulike-heart">
+                                                        <div class="wp_ulike_general_class wp_ulike_is_not_liked">
+                                                            <button type="button"
+                                                                class="wp_ulike_btn wp_ulike_put_image"></button>
+                                                        </div>
+                                                    </div>
+                                                    <ul class="menu bottomRight">
+                                                        <li class="share top">
+                                                            <i class="fa fa-share-alt"></i>
+                                                            <ul class="submenu">
+                                                                <li><a href="#" class="facebook"><i
+                                                                            class="fab fa-facebook-f"></i></a>
+                                                                </li>
+                                                                <li><a href="#" class="facebook"><i
+                                                                            class="fab fa-instagram"></i></a>
+                                                                </li>
+                                                                <li><a href="#" class="facebook"><i
+                                                                            class="fab fa-twitter"></i></a></li>
+                                                            </ul>
+                                                        </li>
+                                                    </ul>
+                                                    <div class="movie-actions--link_add-to-playlist dropdown">
+                                                        <a class="dropdown-toggle" href="#" data-toggle="dropdown"><i
+                                                                class="fa fa-plus"></i></a>
+                                                        <div class="dropdown-menu mCustomScrollbar">
+                                                            <div class="mCustomScrollBox">
+                                                                <div class="mCSB_container">
+                                                                    <a class="login-link" href="register">Sign in
+                                                                        to add this
+                                                                        movie to a
+                                                                        playlist.</a>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="gen-movie-action">
+                                                    <a href="single-tv-shows" class="gen-button">
+                                                        <i class="fa fa-play"></i>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                            <div class="gen-info-contain">
+                                                <div class="gen-movie-info">
+                                                    <h3><a href="single-tv-shows">Dream Of Dargons</a></h3>
+                                                </div>
+                                                <div class="gen-movie-meta-holder">
+                                                    <ul>
+                                                        <li>1 Season</li>
+                                                        <li>
+                                                            <a href="adventure"><span>Adventure</span></a>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div
+                                    class="tv_show type-tv_show status-publish has-post-thumbnail hentry tv_show_genre-adventure">
+                                    <div class="gen-carousel-movies-style-1 movie-grid style-1">
+                                        <div class="gen-movie-contain">
+                                            <div class="gen-movie-img">
+                                                <img src="images/background/asset-77.jpg" alt="streamlab-image">
+                                                <div class="gen-movie-add">
+                                                    <div class="wpulike wpulike-heart">
+                                                        <div class="wp_ulike_general_class wp_ulike_is_not_liked">
+                                                            <button type="button"
+                                                                class="wp_ulike_btn wp_ulike_put_image"></button>
+                                                        </div>
+                                                    </div>
+                                                    <ul class="menu bottomRight">
+                                                        <li class="share top">
+                                                            <i class="fa fa-share-alt"></i>
+                                                            <ul class="submenu">
+                                                                <li><a href="#" class="facebook"><i
+                                                                            class="fab fa-facebook-f"></i></a>
+                                                                </li>
+                                                                <li><a href="#" class="facebook"><i
+                                                                            class="fab fa-instagram"></i></a>
+                                                                </li>
+                                                                <li><a href="#" class="facebook"><i
+                                                                            class="fab fa-twitter"></i></a></li>
+                                                            </ul>
+                                                        </li>
+                                                    </ul>
+                                                    <div class="movie-actions--link_add-to-playlist dropdown">
+                                                        <a class="dropdown-toggle" href="#" data-toggle="dropdown"><i
+                                                                class="fa fa-plus"></i></a>
+                                                        <div class="dropdown-menu mCustomScrollbar">
+                                                            <div class="mCustomScrollBox">
+                                                                <div class="mCSB_container">
+                                                                    <a class="login-link" href="register">Sign in
+                                                                        to add this
+                                                                        movie to a
+                                                                        playlist.</a>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="gen-movie-action">
+                                                    <a href="single-tv-shows" class="gen-button">
+                                                        <i class="fa fa-play"></i>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                            <div class="gen-info-contain">
+                                                <div class="gen-movie-info">
+                                                    <h3><a href="single-tv-shows">Play For Life</a></h3>
+                                                </div>
+                                                <div class="gen-movie-meta-holder">
+                                                    <ul>
+                                                        <li>1 Season</li>
+                                                        <li>
+                                                            <a href="action"><span>Action</span></a>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div
+                                    class="tv_show type-tv_show status-publish has-post-thumbnail hentry tv_show_genre-adventure">
+                                    <div class="gen-carousel-movies-style-1 movie-grid style-1">
+                                        <div class="gen-movie-contain">
+                                            <div class="gen-movie-img">
+                                                <img src="images/background/asset-35.jpg" alt="streamlab-image">
+                                                <div class="gen-movie-add">
+                                                    <div class="wpulike wpulike-heart">
+                                                        <div class="wp_ulike_general_class wp_ulike_is_not_liked">
+                                                            <button type="button"
+                                                                class="wp_ulike_btn wp_ulike_put_image"></button>
+                                                        </div>
+                                                    </div>
+                                                    <ul class="menu bottomRight">
+                                                        <li class="share top">
+                                                            <i class="fa fa-share-alt"></i>
+                                                            <ul class="submenu">
+                                                                <li><a href="#" class="facebook"><i
+                                                                            class="fab fa-facebook-f"></i></a>
+                                                                </li>
+                                                                <li><a href="#" class="facebook"><i
+                                                                            class="fab fa-instagram"></i></a>
+                                                                </li>
+                                                                <li><a href="#" class="facebook"><i
+                                                                            class="fab fa-twitter"></i></a></li>
+                                                            </ul>
+                                                        </li>
+                                                    </ul>
+                                                    <div class="movie-actions--link_add-to-playlist dropdown">
+                                                        <a class="dropdown-toggle" href="#" data-toggle="dropdown"><i
+                                                                class="fa fa-plus"></i></a>
+                                                        <div class="dropdown-menu mCustomScrollbar">
+                                                            <div class="mCustomScrollBox">
+                                                                <div class="mCSB_container">
+                                                                    <a class="login-link" href="register">Sign in
+                                                                        to add this
+                                                                        movie to a
+                                                                        playlist.</a>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="gen-movie-action">
+                                                    <a href="single-tv-shows" class="gen-button">
+                                                        <i class="fa fa-play"></i>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                            <div class="gen-info-contain">
+                                                <div class="gen-movie-info">
+                                                    <h3><a href="single-tv-shows">War With Robots</a></h3>
+                                                </div>
+                                                <div class="gen-movie-meta-holder">
+                                                    <ul>
+                                                        <li>0 Seasons</li>
+                                                        <li>
+                                                            <a href="action"><span>Action</span></a>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div
+                                    class="tv_show type-tv_show status-publish has-post-thumbnail hentry tv_show_genre-adventure">
+                                    <div class="gen-carousel-movies-style-1 movie-grid style-1">
+                                        <div class="gen-movie-contain">
+                                            <div class="gen-movie-img">
+                                                <img src="images/background/asset-68.jpg" alt="streamlab-image">
+                                                <div class="gen-movie-add">
+                                                    <div class="wpulike wpulike-heart">
+                                                        <div class="wp_ulike_general_class wp_ulike_is_not_liked">
+                                                            <button type="button"
+                                                                class="wp_ulike_btn wp_ulike_put_image"></button>
+                                                        </div>
+                                                    </div>
+                                                    <ul class="menu bottomRight">
+                                                        <li class="share top">
+                                                            <i class="fa fa-share-alt"></i>
+                                                            <ul class="submenu">
+                                                                <li><a href="#" class="facebook"><i
+                                                                            class="fab fa-facebook-f"></i></a>
+                                                                </li>
+                                                                <li><a href="#" class="facebook"><i
+                                                                            class="fab fa-instagram"></i></a>
+                                                                </li>
+                                                                <li><a href="#" class="facebook"><i
+                                                                            class="fab fa-twitter"></i></a></li>
+                                                            </ul>
+                                                        </li>
+                                                    </ul>
+                                                    <div class="movie-actions--link_add-to-playlist dropdown">
+                                                        <a class="dropdown-toggle" href="#" data-toggle="dropdown"><i
+                                                                class="fa fa-plus"></i></a>
+                                                        <div class="dropdown-menu mCustomScrollbar">
+                                                            <div class="mCustomScrollBox">
+                                                                <div class="mCSB_container">
+                                                                    <a class="login-link" href="register">Sign in
+                                                                        to add this
+                                                                        movie to a
+                                                                        playlist.</a>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="gen-movie-action">
+                                                    <a href="single-tv-shows" class="gen-button">
+                                                        <i class="fa fa-play"></i>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                            <div class="gen-info-contain">
+                                                <div class="gen-movie-info">
+                                                    <h3><a href="single-tv-shows">Story Of Mahauki Shark</a></h3>
+                                                </div>
+                                                <div class="gen-movie-meta-holder">
+                                                    <ul>
+                                                        <li>0 Seasons</li>
+                                                        <li>
+                                                            <a href="comedy"><span>Comedy</span></a>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- owl-carousel Videos Section-2 End -->
+
     <!-- owl-carousel images Start -->
     <section class="gen-section-padding-2 pt-0 pb-0 home-singal-silder">
         <div class="container">
+            <div class="row mb-3">
+                <div class="col-xl-6 col-lg-6 col-md-6">
+                    <h3 class="gen-heading-title">Latest Release</h3>
+                </div>
+                <div class="col-xl-6 col-lg-6 col-md-6 d-none d-md-inline-block">
+                    <div class="gen-movie-action">
+                        <div class="gen-btn-container text-right">
+                            <a href="tv-shows-pagination" class="gen-button gen-button-flat">
+                                <span class="text">More Tv Shows</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
             <div class="row">
                 <div class="col-12">
                     <div class="gen-banner-movies">
@@ -1350,7 +1663,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-xl-6 col-lg-6 col-md-6">
-                    <h3 class="gen-heading-title">Powerful Crime Shows</h3>
+                    <h3 class="gen-heading-title">Movies Based on recent likes and watches </h3>
                 </div>
                 <div class="col-xl-6 col-lg-6 col-md-6 d-none d-md-inline-block">
                     <div class="gen-movie-action">
@@ -1358,40 +1671,7 @@
                             <a href="tv-shows-pagination" class="gen-button gen-button-flat">
                                 <span class="text">More Tv Shows</span>
                             </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="row mt-3">
-                <div class="col-12">
-                    <div class="gen-style-1">
-                        <div class="owl-carousel owl-loaded owl-drag" data-dots="false" data-nav="true"
-                            data-desk_num="4" data-lap_num="3" data-tab_num="2" data-mob_num="1" data-mob_sm="1"
-                            data-autoplay="false" data-loop="false" data-margin="30">
-                            <div class="item">
-                                <div
-                                    class="tv_show type-tv_show status-publish has-post-thumbnail hentry tv_show_genre-adventure">
-                                    <div class="gen-carousel-movies-style-1 movie-grid style-1">
-                                        <div class="gen-movie-contain">
-                                            <div class="gen-movie-img">
-                                                <img src="images/background/asset-15.jpeg" alt="streamlab-image">
-                                                <div class="gen-movie-add">
-                                                    <div class="wpulike wpulike-heart">
-                                                        <div class="wp_ulike_general_class wp_ulike_is_not_liked">
-                                                            <button type="button"
-                                                                class="wp_ulike_btn wp_ulike_put_image"></button>
-                                                        </div>
-                                                    </div>
-                                                    <ul class="menu bottomRight">
-                                                        <li class="share top">
-                                                            <i class="fa fa-share-alt"></i>
-                                                            <ul class="submenu">
-                                                                <li><a href="#" class="facebook"><i
-                                                                            class="fab fa-facebook-f"></i></a>
-                                                                </li>
-                                                                <li><a href="#" class="facebook"><i
-                                                                            class="fab fa-instagram"></i></a>
-                                                                </li>
+                        </div>                    </li>
                                                                 <li><a href="#" class="facebook"><i
                                                                             class="fab fa-twitter"></i></a></li>
                                                             </ul>

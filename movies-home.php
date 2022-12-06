@@ -59,7 +59,7 @@
                                                         <li>1hr 44 mins</li>
                                                         <li> <img src="images/asset-2.png" alt="streamlab-image">
                                                             <span>
-                                                                0 </span>
+                                                                8.8 </span>
                                                         </li>
                                                         <li>
                                                             2018
@@ -111,7 +111,7 @@
                                                         <li>1hr 46mins</li>
                                                         <li> <img src="images/asset-2.png" alt="streamlab-image">
                                                             <span>
-                                                                0 </span>
+                                                                8.5 </span>
                                                         </li>
                                                         <li>
                                                             2017
@@ -158,12 +158,12 @@
                                                     <ul>
                                                         <li class="gen-sen-rating">
                                                             <span>
-                                                                GP </span>
+                                                                PG-14 </span>
                                                         </li>
                                                         <li>1hr 37 mins</li>
                                                         <li> <img src="images/asset-2.png" alt="streamlab-image">
                                                             <span>
-                                                                0 </span>
+                                                                8.5 </span>
                                                         </li>
                                                         <li>
                                                             2018
@@ -208,7 +208,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-xl-6 col-lg-6 col-md-6">
-                    <h4 class="gen-heading-title">Most Popular</h4>
+                    <h4 class="gen-heading-title">High Rated</h4>
                 </div>
                 <div class="col-xl-6 col-lg-6 col-md-6 d-none d-md-inline-block">
                     <div class="gen-movie-action">
@@ -1350,6 +1350,20 @@
     <!-- owl-carousel images Start -->
     <section class="pt-0 pb-0 gen-section-padding-2 home-singal-silder">
         <div class="container">
+            <div class="row mb-3">
+                <div class="col-xl-6 col-lg-6 col-md-6">
+                    <h4 class="gen-heading-title">Latest Release</h4>
+                </div>
+                <div class="col-xl-6 col-lg-6 col-md-6 d-none d-md-inline-block">
+                    <div class="gen-movie-action">
+                        <div class="gen-btn-container text-right">
+                            <a href="movies-pagination" class="gen-button gen-button-flat">
+                                <span class="text">More Movies</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
             <div class="row">
                 <div class="col-12">
                     <div class="gen-banner-movies">
@@ -1885,7 +1899,9 @@
         <div class="container">
             <div class="row">
                 <div class="col-xl-6 col-lg-6 col-md-6">
-                    <h4 class="gen-heading-title">Powerful Crime Thrillers</h4>
+                    <h4 class="gen-heading-title">
+                        Movies Based on recent likes and watches
+                    </h4>
                 </div>
                 <div class="col-xl-6 col-lg-6 col-md-6 d-none d-md-inline-block">
                     <div class="gen-movie-action">
