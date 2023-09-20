@@ -11,57 +11,50 @@
                             <div id="gen-menu-contain" class="gen-menu-contain">
                                 <ul id="gen-main-menu" class="navbar-nav ml-auto">
                                     <li class="menu-item active">
-                                        <a href="index" aria-current="page">Home</a>
+                                        <a href="index" aria-current="page">Application</a>
                                         <i class="fa fa-chevron-down gen-submenu-icon"></i>
                                         <ul class="sub-menu">
                                             <li class="menu-item active">
-                                                <a href="index" aria-current="page">Main Home</a>
+                                                <a href="index" aria-current="page">Login</a>
                                             </li>
                                             <li class="menu-item">
-                                                <a href="movies-home" aria-current="page">Movies Home</a>
+                                                <a href="movies-home" aria-current="page">Sign Up</a>
                                             </li>
-                                            <li class="menu-item">
-                                                <a href="tv-shows-home" aria-current="page">Tv Shows Home</a>
-                                            </li>
+                                           
                                         </ul>
                                     </li>
                                     <li class="menu-item">
-                                        <a href="movies-home">Movies</a>
-                                        <i class="fa fa-chevron-down gen-submenu-icon"></i>
-                                        <ul class="sub-menu">
-                                            <li class="menu-item">
-                                                <a href="movies-home">Movies Home</a>
-                                            </li>
-                                            <li class="menu-item">
-                                                <a href="movies-pagination">Movies list</a>
-                                            </li>
-                                        </ul>
+                                        <a href="movies-home">Pricing Plan</a>
                                     </li>
                                     <li class="menu-item">
-                                        <a href="movies-home">Categories</a>
-                                        <i class="fa fa-chevron-down gen-submenu-icon"></i>
-                                        <ul class="sub-menu">
-                                            <li class="menu-item">
-                                                <a href="Action">Action</a>
-                                            </li>
-                                            <li class="menu-item">
-                                                <a href="horror">Horror</a>
-                                            </li>
-                                        </ul>
+                                        <a href="movies-home">Contact Us</a>
                                     </li>
                                     <li class="menu-item">
-                                        <a href="tv-shows-home">Tv Shows</a>
+                                        <a href="tv-shows-home">Blogs</a>
+                                    </li>
+                                    <li class="menu-item">
+                                        <a href="index" aria-current="page">Main home</a>
                                         <i class="fa fa-chevron-down gen-submenu-icon"></i>
                                         <ul class="sub-menu">
-                                            <li class="menu-item">
-                                                <a href="tv-shows-home">Tv Shows Home</a>
+                                            <li class="menu-item active">
+                                                <a href="index" aria-current="page">main movie home</a>
                                             </li>
                                             <li class="menu-item">
-                                                <a href="tv-shows-pagination">Tv Shows list</a>
+                                                <a href="movies-home" aria-current="page">main Tvshows home</a>
                                             </li>
-
-                                        </ul>
                                     </li>
+                                        </ul>
+                                    <li class="menu-item">
+                                        <a href="index" aria-current="page">Video List</a>
+                                        <i class="fa fa-chevron-down gen-submenu-icon"></i>
+                                        <ul class="sub-menu">
+                                            <li class="menu-item active">
+                                                <a href="index" aria-current="page">Movie List</a>
+                                            </li>
+                                            <li class="menu-item">
+                                                <a href="movies-home" aria-current="page">Tv shows List</a>
+                                            </li>
+                                           
                                 </ul>
                             </div>
                         </div>
@@ -81,7 +74,7 @@
                                 </div>
                             </div>
                             <div class="gen-account-holder">
-                                <a href="javascript:void(0)" id="gen-user-btn"><i class="fa fa-user"></i></a>
+                                <!-- <a href="javascript:void(0)" id="gen-user-btn"><i class="fa fa-user"></i></a> -->
                                 <div class="gen-account-menu">
                                     <ul class="gen-account-menu">
                                         <!-- Pms Menu -->
@@ -114,14 +107,14 @@
                                     </ul>
                                 </div>
                             </div>
-                            <div class="gen-btn-container">
+                            <!-- <div class="gen-btn-container">
                                 <a href="register" class="gen-button">
                                     <div class="gen-button-block">
                                         <span class="gen-button-line-left"></span>
                                         <span class="gen-button-text">Subscribe</span>
                                     </div>
                                 </a>
-                            </div>
+                            </div> -->
                         </div>
                         <button class="navbar-toggler" type="button" data-toggle="collapse"
                             data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
